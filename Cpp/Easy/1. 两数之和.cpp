@@ -1,3 +1,6 @@
+法一：直接双重循环 暴力解，但会超时，O(n^2)
+法二：哈希，用一个哈希表，存储每个数的对应下标，复杂度O(n)
+    
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
