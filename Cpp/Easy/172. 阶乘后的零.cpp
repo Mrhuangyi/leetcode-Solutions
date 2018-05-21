@@ -12,6 +12,9 @@
 解释: 5! = 120, 尾数中有 1 个零.
 说明: 你算法的时间复杂度应为 O(log n) 。
 
+尾随零通常由素数因子2和5产生。如果我们可以计数5s和2s的数量，我们的任务就完成了
+Trailing 0s in n! = Count of 5s in prime factors of n!
+                  = floor(n/5) + floor(n/25) + floor(n/125) + ....
 class Solution {
 public:
     int trailingZeroes(int n) {
