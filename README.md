@@ -258,7 +258,7 @@
 | 315 | [ 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/description/) | cpp | hard | 树状数组、线段树、二叉搜索树|
 | 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/description/) | cpp | hard | 栈、贪心算法|
 | 318 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/description/) | cpp | medium | 位运算|
-| 319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/319.%20%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3.cpp）|medium | 数学|
+| 319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/319.%20%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3.cpp)|medium | 数学|
 | 321 | [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/description/) | cpp | hard | 贪心算法、动态规划|
 | 322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) | cpp | medium | 动态规划|
 | 324 | [摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/description/) | cpp | medium | 排序|
