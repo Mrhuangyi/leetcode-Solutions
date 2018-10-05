@@ -156,3 +156,103 @@
 | 148 | [排序链表](https://leetcode-cn.com/problems/sort-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.cpp) | medium | 排序、链表|
 | 149 | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/description/) | cpp | hard | 哈希表、数学|
 | 150 | [逆波兰表达式求值](https://leetcode-cn.com/problems/evaluate-reverse-polish-notation/description/) | cpp | medium | 栈|
+| 151 | [翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/description/) | cpp | medium | 字符串 |
+| 152 | [乘积最大子序列](https://leetcode-cn.com/problems/maximum-product-subarray/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/152.%20%E4%B9%98%E7%A7%AF%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%88%97.cpp) | medium | 数组、动态规划|
+| 153 | [寻找旋转排序数组中的最小值](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/153.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC.cpp) | medium | 数组、二分查找|
+| 154 |[寻找旋转排序数组中的最小值 II](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/154.%20%E5%AF%BB%E6%89%BE%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E6%9C%80%E5%B0%8F%E5%80%BC%20II.cpp) | hard | 数组、二分查找|
+| 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/155.%20%E6%9C%80%E5%B0%8F%E6%A0%88.cpp) | easy | 栈、设计|
+| 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp) | easy | 链表|
+| 162 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/162.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.cpp) | medium | 数组、二分查找|
+| 164 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/description/) | cpp | hard | 排序 |
+| 165 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/description/) | cpp | medium | 字符串 |
+| 166 | [分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/description/) | cpp | medium | 哈希表、数学|
+| 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | easy | 数组、双指针、二分查找|
+| 168 | [Excel表列名称](https://leetcode-cn.com/problems/excel-sheet-column-title/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/168.%20Excel%E8%A1%A8%E5%88%97%E5%90%8D%E7%A7%B0.cpp) | easy | 数学|
+| 169 | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/169.%20%E6%B1%82%E4%BC%97%E6%95%B0.cpp) | easy | 位运算、数组、分治算法|
+| 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/171.%20Excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7.cpp) | easy | 数学|
+| 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/172.%20%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.cpp) | easy | 数学|
+| 173 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/description/) | cpp | medium | 栈、树、设计|
+| 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/description/) | cpp | hard | 二分查找、动态规划|
+| 179 | [最大数](https://leetcode-cn.com/problems/largest-number/description/) | cpp | medium | 排序|
+| 187 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/description/) | cpp | medium | 位运算、哈希表 |
+| 188 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | cpp | hard | 动态规划|
+| 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.cpp) | easy | 数组|
+| 190 | [颠倒二进制位](https://leetcode-cn.com/problems/reverse-bits/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/190.%20%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.cpp) | easy | 位运算|
+| 191 | [位1的个数](https://leetcode-cn.com/problems/number-of-1-bits/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/191.%20%E4%BD%8D1%E7%9A%84%E4%B8%AA%E6%95%B0.cpp) | easy | 位运算|
+| 198 | [打家劫舍](https://leetcode-cn.com/problems/house-robber/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/198.%20%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.cpp) | easy | 动态规划|
+| 199 | [二叉树的右视图](https://leetcode-cn.com/problems/binary-tree-right-side-view/description/) | cpp | medium | 树、深度优先搜索、广度优先搜索|
+| 200 | [岛屿的个数](https://leetcode-cn.com/problems/number-of-islands/description/) | cpp | medium | 深度优先搜索、广度优先搜索、并查集|
+| 201 | [数字范围按位与](https://leetcode-cn.com/problems/bitwise-and-of-numbers-range/description/) | cpp | medium | 位运算|
+| 202 | [快乐数](https://leetcode-cn.com/problems/happy-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/202.%20%E5%BF%AB%E4%B9%90%E6%95%B0.cpp) | easy | 哈希表、数学 |
+| 203 | [删除链表中的节点](https://leetcode-cn.com/problems/remove-linked-list-elements/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/203.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.cpp) | easy | 链表|
+| 204 | [计数质数](https://leetcode-cn.com/problems/count-primes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/204.%20%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.cpp) | easy | 哈希表、数学|
+| 205 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2) | easy | 哈希表|
+| 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp) | easy | 链表|
+| 207 | [课程表](https://leetcode-cn.com/problems/course-schedule/description/) | cpp | medium | 搜索、图、拓扑排序|
+| 208 | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/) | cpp | medium | 设计、字典树|
+| 209 | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/) | cpp | medium | 数组、双指针、二分查找|
+| 210 | [课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/description/) | cpp | medium | 搜索、图、拓扑排序|
+| 211 | [添加与搜索单词 - 数据结构设计](https://leetcode-cn.com/problems/add-and-search-word-data-structure-design/description/) | cpp | medium | 设计、字典树、回溯算法|
+| 212 | [单词搜索 II](https://leetcode-cn.com/problems/word-search-ii/description/) | cpp | hard | 字典树、回溯算法|
+| 213 | [打家劫舍 II](https://leetcode-cn.com/problems/house-robber-ii/description/) | cpp | medium | 动态规划|
+| 214 | [最短回文串](https://leetcode-cn.com/problems/shortest-palindrome/description/) | cpp | hard | 字符串|
+| 215 | [数组中的第K个最大元素](https://leetcode-cn.com/problems/kth-largest-element-in-an-array/description/) | cpp | medium | 堆、分治算法|
+| 216 | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/description/) | cpp | medium | 数组、回溯算法|
+| 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp) | easy | 数组、哈希表|
+| 218 | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/description/) | cpp |hard | 堆、树状数组、线段树、分治算法|
+| 219 | [存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.cpp) | 数组、哈希表|
+| 220 | [存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/) | cpp | medium | 二叉搜索树|
+| 221 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/description/) | cpp | medium | 动态规划|
+| 222 | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/description/) | cpp | medium | 树、二分查找|
+| 223 | [矩形面积](https://leetcode-cn.com/problems/rectangle-area/description/) | cpp | medium | 数学|
+| 224 | [基本计算器](https://leetcode-cn.com/problems/basic-calculator/description/) | cpp | hard | 栈、数学|
+| 225 | [用队列实现栈](https://leetcode-cn.com/problems/implement-stack-using-queues/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/225.%20%E7%94%A8%E9%98%9F%E5%88%97%E5%AE%9E%E7%8E%B0%E6%A0%88.cpp) | easy | 栈、设计|
+| 226 | [翻转二叉树](https://leetcode-cn.com/problems/invert-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/226.%20%E7%BF%BB%E8%BD%AC%E4%BA%8C%E5%8F%89%E6%A0%91.cpp) | easy | 树|
+| 227 | [基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/227.%20%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8%20II.cpp) | medium | 字符串|
+| 228 | [汇总区间](https://leetcode-cn.com/problems/summary-ranges/description/) | cpp | medium | 数组| 
+| 229 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/description/) | cpp | medium | 数组|
+| 230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | cpp | medium | 树、二分查找|
+| 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/231.%202%E7%9A%84%E5%B9%82.cpp) | easy | 位运算、数学| 
+| 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp) | easy | 栈、设计|
+| 233 | [数字1的个数](https://leetcode-cn.com/problems/number-of-digit-one/description/) | cpp | hard | 数学|
+| 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/234.%20Palindrome%20Linked%20List.cpp) | easy | 链表、双指针|
+| 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp) | easy | 树|
+| 236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | cpp | medium | 树|
+| 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/237.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.cpp) | easy | 链表|
+| 238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/description/) | cpp | medium | 数组|
+| 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/description/) | cpp | hard | 堆 | 
+| 240 | [搜索二维矩阵 II](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/description/) | cpp | medium | 二分查找、分治算法|
+| 241 | [为运算表达式设计优先级](https://leetcode-cn.com/problems/different-ways-to-add-parentheses/description/) | cpp | medium | 分治算法|
+| 242 | [有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/242.%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D.cpp) | easy | 排序、哈希表|
+| 257 | [二叉树的所有路径](https://leetcode-cn.com/problems/binary-tree-paths/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/257.%20Binary%20Tree%20Paths.cpp) | easy | 树、深度优先搜索|
+| 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/258.%20%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.cpp) | easy | 数学 |
+| 260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/description/) | cpp | medium | 位运算|
+| 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/263.%20%E4%B8%91%E6%95%B0.cpp) | easy | 数学|
+| 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/description/) | cpp | medium | 堆、数学、动态规划|
+| 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/268.%20%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.cpp) | easy | 位运算、数组、数学|
+| 273 | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/description/) | cpp | hard |数学、字符串|
+| 274 | [H指数](https://leetcode-cn.com/problems/h-index/description/) | cpp | medium | 排序、哈希表|
+| 275 | [H指数 II](https://leetcode-cn.com/problems/h-index-ii/description/) | cpp | medium | 二分查找|
+| 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.cpp) | easy | 二分查找|
+| 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.cpp) | medium | 广度优先搜索、数学、动态规划|
+| 282 | [给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators/description/) | cpp | hard | 分治算法|
+| 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.cpp) | easy | 数组、双指针|
+| 284 | [顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/description/) | cpp | medium | 设计|
+| 287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | cpp | medium | 数组、双指针、二分查找|
+| 289 | [生命游戏](https://leetcode-cn.com/problems/game-of-life/description/) | cpp | medium | 数组|
+| 290 | [单词模式](https://leetcode-cn.com/problems/word-pattern/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/290.%20%E5%8D%95%E8%AF%8D%E6%A8%A1%E5%BC%8F.cpp) | easy | 哈希表|
+| 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/292.%20Nim%E6%B8%B8%E6%88%8F.cpp) | easy | 规律|
+| 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/description/) | cpp | hard | 设计|
+| 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/description/) | cpp | hard | 设计|
+| 299 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/description/) | cpp | medium | 哈希表|
+| 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/) | cpp | medium | 动态规划、二分查找|
+| 301 | [删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/description/) | cpp | hard | 搜索|
+| 303 | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.cpp) | easy | 动态规划|
+| 304 | [二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/description/) | cpp | medium | 动态规划|
+| 306 | [累加数](https://leetcode-cn.com/problems/additive-number/description/)| cpp | medium | 回溯算法|
+| 307 | [区域和检索 - 数组可修改](https://leetcode-cn.com/problems/range-sum-query-mutable/description/) | cpp | medium | 树状数组、线段树|
+| 309 | [最佳买卖股票时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/description/) | cpp | medium | 动态规划 |
+| 310 | [最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/description/) | cpp | medium | 广度优先搜索、图|
+| 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/description/) | cpp | hard | 分治算法、动态规划|
+| 313 | [ 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/description/) | cpp | medium |堆、数学|
+| 315 | [ 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/description/) | cpp | hard | 树状数组、线段树、二叉搜索树|
