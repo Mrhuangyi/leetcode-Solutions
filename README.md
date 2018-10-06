@@ -348,5 +348,32 @@
 | 445 | [两数相加 II](https://leetcode-cn.com/problems/add-two-numbers-ii/description/) | cpp | medium | 链表|
 | 446 | [Arithmetic Slices II - Subsequence](https://leetcode-cn.com/problems/arithmetic-slices-ii-subsequence/description/) | cpp | hard | 动态规划|
 | 447 | [回旋镖的数量](https://leetcode-cn.com/problems/number-of-boomerangs/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/447.%20%E5%9B%9E%E6%97%8B%E9%95%96%E7%9A%84%E6%95%B0%E9%87%8F.cpp) | easy | 哈希表|
+| 448 | [找到所有数组中消失的数字](https://leetcode-cn.com/problems/find-all-numbers-disappeared-in-an-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/448.%20%E6%89%BE%E5%88%B0%E6%89%80%E6%9C%89%E6%95%B0%E7%BB%84%E4%B8%AD%E6%B6%88%E5%A4%B1%E7%9A%84%E6%95%B0%E5%AD%97.cpp) | easy | 数组 |
+| 449 | [序列化和反序列化二叉搜索树](https://leetcode-cn.com/problems/serialize-and-deserialize-bst/description/) | cpp | medium | 树 |
+| 450 | [删除二叉搜索树中的节点](https://leetcode-cn.com/problems/delete-node-in-a-bst/description/) | cpp | medium | 树 |
+| 451 | [根据字符出现频率排序](https://leetcode-cn.com/problems/sort-characters-by-frequency/description/) | cpp | medium | 堆、哈希表 |
+| 452 | [用最少数量的箭引爆气球](https://leetcode-cn.com/problems/minimum-number-of-arrows-to-burst-balloons/description/) | cpp | medium | 贪心算法 |
+| 453 | [最小移动次数使数组元素相等](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/453.%20%E6%9C%80%E5%B0%8F%E7%A7%BB%E5%8A%A8%E6%AC%A1%E6%95%B0%E4%BD%BF%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E7%9B%B8%E7%AD%89.cpp) | easy | 数学 |
+| 454 | [四数相加 II](https://leetcode-cn.com/problems/4sum-ii/description/) | cpp | medium | 哈希表、二分查找|
+| 455 | [分发饼干](https://leetcode-cn.com/problems/assign-cookies/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/455.%20%E5%88%86%E5%8F%91%E9%A5%BC%E5%B9%B2.cpp) | easy | 贪心算法|
+| 456 | [132模式](https://leetcode-cn.com/problems/132-pattern/description/) | cpp | medium | 栈 |
+| 457 | [环形数组循环](https://leetcode-cn.com/problems/circular-array-loop/description/) | cpp | medium | 数组 |
+| 458 | [可怜的小猪](https://leetcode-cn.com/problems/poor-pigs/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/458.%20%E5%8F%AF%E6%80%9C%E7%9A%84%E5%B0%8F%E7%8C%AA.cpp) | easy | 数学 |
+| 459 | [重复的子字符串](https://leetcode-cn.com/problems/repeated-substring-pattern/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/459.%20%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp) | easy | 字符串 |
+| 460 | [LFU缓存](https://leetcode-cn.com/problems/lfu-cache/description/) | cpp | hard | 设计 |
+| 461 | [汉明距离](https://leetcode-cn.com/problems/hamming-distance/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/461.%20%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB.cpp) | easy | 位运算 |
+| 462 | [最少移动次数使数组元素相等 II](https://leetcode-cn.com/problems/minimum-moves-to-equal-array-elements-ii/description/) | cpp | medium | 数学 |
+| 463 | [岛屿的周长](https://leetcode-cn.com/problems/island-perimeter/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/463.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E5%91%A8%E9%95%BF.cpp) | easy | 哈希表 |
+| 464 | [我能赢吗](https://leetcode-cn.com/problems/can-i-win/description/) | cpp | medium | 极小化极大、动态规划 |
+| 466 | [统计重复个数](https://leetcode-cn.com/problems/count-the-repetitions/description/) | cpp | hard | 动态规划 |
+| 467 | [环绕字符串中唯一的子字符串](https://leetcode-cn.com/problems/unique-substrings-in-wraparound-string/description/) | cpp | medium | 动态规划 |
+| 468 | [验证IP地址](https://leetcode-cn.com/problems/validate-ip-address/description/) | cpp | medium | 字符串 |
+| 470 | [用 Rand7() 实现 Rand10()](https://leetcode-cn.com/problems/implement-rand10-using-rand7/description/) | cpp | medium | 随机数|
+| 472 | [连接词](https://leetcode-cn.com/problems/concatenated-words/description/) | cpp | hard | 深度优先搜索、字典树、动态规划 |
+| 473 | [火柴拼正方形](https://leetcode-cn.com/problems/matchsticks-to-square/description/) | cpp | medium | 深度优先搜索 |
+| 474 | [一和零](https://leetcode-cn.com/problems/ones-and-zeroes/description/) | cpp | medium | 动态规划 |
+| 475 | [供暖器](https://leetcode-cn.com/problems/heaters/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/475.%20%E4%BE%9B%E6%9A%96%E5%99%A8) | easy | 二分查找 |
+| 476 | [数字的补数](https://leetcode-cn.com/problems/number-complement/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/476.%20%E6%95%B0%E5%AD%97%E7%9A%84%E8%A1%A5%E6%95%B0.cpp) | easy | 位运算 |
+| 477 | [汉明距离总和](https://leetcode-cn.com/problems/total-hamming-distance/description/) | cpp | medium | 位运算 |
 
  
