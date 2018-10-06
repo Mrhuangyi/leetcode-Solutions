@@ -420,7 +420,7 @@
 | 529 | [扫雷游戏](https://leetcode-cn.com/problems/minesweeper/description/) | cpp | medium | 搜索 |
 | 530 | [二叉搜索树的最小绝对差](https://leetcode-cn.com/problems/minimum-absolute-difference-in-bst/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/530.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E6%9C%80%E5%B0%8F%E7%BB%9D%E5%AF%B9%E5%B7%AE.cpp) | easy | 二叉搜索树 |
 | 532 | [数组中的K-diff数对](https://leetcode-cn.com/problems/k-diff-pairs-in-an-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/532.%20%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84K-diff%E6%95%B0%E5%AF%B9.cpp) | easy | 数组、双指针 |
-| 535 | [TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/) | medium | 哈希表、数学 |
+| 535 | [TinyURL 的加密与解密](https://leetcode-cn.com/problems/encode-and-decode-tinyurl/description/) | cpp | medium | 哈希表、数学 |
 | 537 | [复数乘法](https://leetcode-cn.com/problems/complex-number-multiplication/description/) | cpp | medium | 数学、字符串 |
 | 538 | [把二叉搜索树转换为累加树](https://leetcode-cn.com/problems/convert-bst-to-greater-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/538.%20%E6%8A%8A%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BD%AC%E6%8D%A2%E4%B8%BA%E7%B4%AF%E5%8A%A0%E6%A0%91.cpp) | easy | 树 |
 | 539 | [最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/description/) | cpp | medium | 字符串 |
@@ -435,8 +435,7 @@
 | 553 | [最优除法](https://leetcode-cn.com/problems/optimal-division/description/) | cpp |medium | 数学、字符串 |
 | 554 | [砖墙](https://leetcode-cn.com/problems/brick-wall/description/) | cpp | medium | 哈希表 |
 | 556 | [下一个更大元素 III](https://leetcode-cn.com/problems/next-greater-element-iii/description/) | cpp | medium | 字符串 |
-| 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.cpp) |
-easy | 字符串 |
+| 557 | [反转字符串中的单词 III](https://leetcode-cn.com/problems/reverse-words-in-a-string-iii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/557.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%8D%95%E8%AF%8D%20III.cpp)|easy | 字符串 |
 | 558 | [Quad Tree Intersection](https://leetcode-cn.com/problems/quad-tree-intersection/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/558.%20Quad%20Tree%20Intersection.cpp) | easy | 树 |
 | 559 | [N叉树的最大深度](https://leetcode-cn.com/problems/maximum-depth-of-n-ary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/559.%20N%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.cpp) | easy | 树、搜索|
 | 560 | [和为K的子数组](https://leetcode-cn.com/problems/subarray-sum-equals-k/description/) | cpp | medium | 数组、哈希表 |
