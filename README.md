@@ -200,7 +200,7 @@
 | 216 | [组合总和 III](https://leetcode-cn.com/problems/combination-sum-iii/description/) | cpp | medium | 数组、回溯算法|
 | 217 | [存在重复元素](https://leetcode-cn.com/problems/contains-duplicate/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/217.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp) | easy | 数组、哈希表|
 | 218 | [天际线问题](https://leetcode-cn.com/problems/the-skyline-problem/description/) | cpp |hard | 堆、树状数组、线段树、分治算法|
-| 219 | [存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.cpp) | 数组、哈希表|
+| 219 | [存在重复元素 II](https://leetcode-cn.com/problems/contains-duplicate-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/219.%20%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.cpp) | medium | 数组、哈希表|
 | 220 | [存在重复元素 III](https://leetcode-cn.com/problems/contains-duplicate-iii/description/) | cpp | medium | 二叉搜索树|
 | 221 | [最大正方形](https://leetcode-cn.com/problems/maximal-square/description/) | cpp | medium | 动态规划|
 | 222 | [完全二叉树的节点个数](https://leetcode-cn.com/problems/count-complete-tree-nodes/description/) | cpp | medium | 树、二分查找|
@@ -394,8 +394,7 @@
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/description/) | cpp | medium | 二分查找 |
 | 498 | [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/) | cpp | medium | 数学 |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/500.%20%E9%94%AE%E7%9B%98%E8%A1%8C.cpp) | easy | 哈希表 |
-| 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/501.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0.cpp) | easy |
- 树 |
+| 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/501.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0.cpp) |easy|树 |
 | 502 | [IPO](https://leetcode-cn.com/problems/ipo/description/) | cpp | hard | 堆、贪心算法|
 | 503 | [下一个更大元素 II](https://leetcode-cn.com/problems/next-greater-element-ii/description/) | cpp | medium | 栈 |
 | 504 | [七进制数](https://leetcode-cn.com/problems/base-7/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/504.%20%E4%B8%83%E8%BF%9B%E5%88%B6%E6%95%B0.cpp) | easy | 数学 |
@@ -517,7 +516,7 @@
 | 686 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/description/) | cpp | easy | 字符串 |
 | 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/687.%20%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84.cpp)  easy | 树、递归 |
 | 688 | [“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/description/) | cpp | medium | 动态规划 |
-| 689 | [三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/) | cpp | hard | 动态规划 |
+| 689 | [三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)|cpp|hard|动态规划 |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | cpp、[java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/690.%20%E5%91%98%E5%B7%A5%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.java) | easy | 搜索、哈希表 |
 | 691 | [Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word/description/) | cpp | hard | 动态规划、回溯算法|
 | 692 | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/description/) | cpp | medium | 堆、字典树、哈希表 |
