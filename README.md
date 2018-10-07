@@ -634,7 +634,7 @@
 | 826 | [安排工作以达到最大收益](https://leetcode-cn.com/problems/most-profit-assigning-work/description/) | cpp | medium | 双指针 |
 | 827 | [最大人工岛](https://leetcode-cn.com/problems/making-a-large-island/description/) | cpp | hard | 深度优先搜索 |
 | 828 | [独特字符串](https://leetcode-cn.com/problems/unique-letter-string/description/) | cpp | hard | 双指针 |
-| 829 | [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum/description/ | cpp | medium | 数学 |
+| 829 | [连续整数求和](https://leetcode-cn.com/problems/consecutive-numbers-sum/description/) | cpp | medium | 数学 |
 | 830 | [较大分组的位置](https://leetcode-cn.com/problems/positions-of-large-groups/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/830.%20%E8%BE%83%E5%A4%A7%E5%88%86%E7%BB%84%E7%9A%84%E4%BD%8D%E7%BD%AE.cpp) | easy | 数组 |
 | 831 | [隐藏个人信息](https://leetcode-cn.com/problems/masking-personal-information/description/) | cpp | medium | 字符串 |
 | 832 | [翻转图像](https://leetcode-cn.com/problems/flipping-an-image/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/832.%20%E7%BF%BB%E8%BD%AC%E5%9B%BE%E5%83%8F.cpp) | easy | 数组 |
