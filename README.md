@@ -281,7 +281,7 @@
 | 345 | [反转字符串中的元音字母](https://leetcode-cn.com/problems/reverse-vowels-of-a-string/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/345.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E5%85%83%E9%9F%B3%E5%AD%97%E6%AF%8D.cpp) | easy | 双指针、字符串|
 | 347 | [前K个高频元素](https://leetcode-cn.com/problems/top-k-frequent-elements/description/) | cpp | medium | 堆、哈希表|
 | 349 | [两个数组的交集](https://leetcode-cn.com/problems/intersection-of-two-arrays/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/349.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86.cpp) | easy | 排序、哈希表、双指针、二分查找|
-| 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/350.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.cpp) | 排序、哈希表、双指针、二分查找|
+| 350 | [两个数组的交集 II](https://leetcode-cn.com/problems/intersection-of-two-arrays-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/350.%20%E4%B8%A4%E4%B8%AA%E6%95%B0%E7%BB%84%E7%9A%84%E4%BA%A4%E9%9B%86%20II.cpp) | medium | 排序、哈希表、双指针、二分查找|
 | 352 | [将数据流变为多个不相交间隔](https://leetcode-cn.com/problems/data-stream-as-disjoint-intervals/description/) | cpp | hard | 二叉搜索树|
 | 354 | [俄罗斯套娃信封问题](https://leetcode-cn.com/problems/russian-doll-envelopes/description/) | cpp | hard | 二分查找、动态规划|
 | 355 | [设计推特](https://leetcode-cn.com/problems/design-twitter/description/) | cpp | medium | 堆、设计、哈希表|
@@ -514,7 +514,7 @@
 | 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/description/) | cpp | medium | 树、并查集、图 |
 | 685 | [冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/description/) | cpp | hard | 树、并查集、图|
 | 686 | [重复叠加字符串匹配](https://leetcode-cn.com/problems/repeated-string-match/description/) | cpp | easy | 字符串 |
-| 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/687.%20%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84.cpp)  easy | 树、递归 |
+| 687 | [最长同值路径](https://leetcode-cn.com/problems/longest-univalue-path/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/687.%20%E6%9C%80%E9%95%BF%E5%90%8C%E5%80%BC%E8%B7%AF%E5%BE%84.cpp)|easy | 树、递归 |
 | 688 | [“马”在棋盘上的概率](https://leetcode-cn.com/problems/knight-probability-in-chessboard/description/) | cpp | medium | 动态规划 |
 | 689 | [三个无重叠子数组的最大和](https://leetcode-cn.com/problems/maximum-sum-of-3-non-overlapping-subarrays/description/)|cpp|hard|动态规划 |
 | 690 | [员工的重要性](https://leetcode-cn.com/problems/employee-importance/description/) | cpp、[java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/690.%20%E5%91%98%E5%B7%A5%E7%9A%84%E9%87%8D%E8%A6%81%E6%80%A7.java) | easy | 搜索、哈希表 |
@@ -598,3 +598,18 @@
 | 788 | [旋转数字](https://leetcode-cn.com/problems/rotated-digits/description/) | cpp | easy | 字符串 |
 | 789 | [逃脱阻碍者](https://leetcode-cn.com/problems/escape-the-ghosts/description/) | cpp | medium | 数学 |
 | 790 | [多米诺和托米诺平铺](https://leetcode-cn.com/problems/domino-and-tromino-tiling/description/) | cpp | medium | 动态规划 |
+| 791 | [自定义字符串排序](https://leetcode-cn.com/problems/custom-sort-string/description/) | cpp | medium | 字符串  |
+| 792 | [匹配子序列的单词数](https://leetcode-cn.com/problems/number-of-matching-subsequences/description/) | cpp | medium | 数组 |
+| 793 | [阶乘函数后K个零](https://leetcode-cn.com/problems/preimage-size-of-factorial-zeroes-function/description/) | cpp | hard | 二分查找|
+| 794 | [有效的井字游戏](https://leetcode-cn.com/problems/valid-tic-tac-toe-state/description/) | cpp | medium | 递归、数学 |
+| 795 | [区间子数组个数](https://leetcode-cn.com/problems/number-of-subarrays-with-bounded-maximum/description/) | cpp | medium | 数组|
+| 796 | [旋转字符串](https://leetcode-cn.com/problems/rotate-string/description/) | cpp | easy | 字符串 |
+| 797 | [所有可能的路径](https://leetcode-cn.com/problems/all-paths-from-source-to-target/description/) | cpp | medium | 数组 |
+| 798 | [Smallest Rotation with Highest Score](https://leetcode-cn.com/problems/smallest-rotation-with-highest-score/description/) | cpp | hard | 数组 |
+| 799 | [香槟塔](https://leetcode-cn.com/problems/champagne-tower/description/) | cpp | medium | 数学 |
+| 801 | [使序列递增的最小交换次数](https://leetcode-cn.com/problems/minimum-swaps-to-make-sequences-increasing/description/) | cpp | medium | 动态规划 |
+| 802 | [找到最终的安全状态](https://leetcode-cn.com/problems/find-eventual-safe-states/description/) | cpp | medium | 深度优先搜索、图 |
+| 803 | [打砖块](https://leetcode-cn.com/problems/bricks-falling-when-hit/description/) | cpp | hard | 并查集 |
+| 804 | [唯一摩尔斯密码词](https://leetcode-cn.com/problems/unique-morse-code-words/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/804.%20%E5%94%AF%E4%B8%80%E6%91%A9%E5%B0%94%E6%96%AF%E5%AF%86%E7%A0%81%E8%AF%8D.cpp) | easy | 字符串 |
+| 805 | [数组的均值分割](https://leetcode-cn.com/problems/split-array-with-same-average/description/) | cpp | hard | 数组 |
+| 806 |写字符串需要的行数](https://leetcode-cn.com/problems/number-of-lines-to-write-string/description/) | cpp | easy | 字符串 |
