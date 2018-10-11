@@ -41,7 +41,7 @@
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | medium | 数组、二分查找|
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | cpp | medium | 数组、二分查找|
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp) | easy | 数组、二分查找|
-| 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/) | cpp | medium | 哈希表|
+| 36 | [有效的数独](https://leetcode-cn.com/problems/valid-sudoku/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/36.%20%E6%9C%89%E6%95%88%E7%9A%84%E6%95%B0%E7%8B%AC.cpp) | medium | 哈希表|
 | 37 | [解数独](https://leetcode-cn.com/problems/sudoku-solver/description/) | cpp | hard | 哈希表、回溯算法|
 | 38 | [报数](https://leetcode-cn.com/problems/count-and-say/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/38.%20%E6%8A%A5%E6%95%B0.cpp) | easy | 字符串 |
 | 39 | [组合总和](https://leetcode-cn.com/problems/combination-sum/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/39.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C.cpp) | medium | 数组、回溯算法|
