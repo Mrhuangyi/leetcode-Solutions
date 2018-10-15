@@ -8,7 +8,7 @@
 |--- |     -----------           |     ---------    |    --------    |      --------       |
 | 1  | [两数之和](https://leetcode-cn.com/problems/two-sum/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | easy | 数组、哈希表|
 | 2  | [两数相加](https://leetcode-cn.com/problems/add-two-numbers/description/)|[cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/2.%20%E4%B8%A4%E6%95%B0%E7%9B%B8%E5%8A%A0.cpp)|medium|链表、数学|
-| 3  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | cpp|medium|哈希表、双指针、字符串|
+| 3  | [无重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/description/) | cpp、[java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/3.%20%E6%97%A0%E9%87%8D%E5%A4%8D%E5%AD%97%E7%AC%A6%E7%9A%84%E6%9C%80%E9%95%BF%E5%AD%90%E4%B8%B2.java)|medium|哈希表、双指针、字符串|
 | 4 | [两个排序数组的中位数](https://leetcode-cn.com/problems/median-of-two-sorted-arrays/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/4.%20%E4%B8%A4%E4%B8%AA%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0.cpp) | hard|数组、二分查找、分治算法|
 | 5 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)| [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md) |medium| 字符串、动态规划|
 | 6 | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/description/)| cpp | medium | 字符串|
