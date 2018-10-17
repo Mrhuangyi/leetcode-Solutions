@@ -142,7 +142,7 @@
 | 134 | [加油站](https://leetcode-cn.com/problems/gas-station/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/134.%20%E5%8A%A0%E6%B2%B9%E7%AB%99.cpp) | medium | 贪心算法|
 | 135 | [分发糖果](https://leetcode-cn.com/problems/candy/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/135.%20%E5%88%86%E5%8F%91%E7%B3%96%E6%9E%9C.cpp) | hard | 贪心算法|
 | 136 | [只出现一次的数字](https://leetcode-cn.com/problems/single-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/136.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.cpp) | easy | 位运算、哈希表|
-| 137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/description/) | cpp | medium | 位运算 |
+| 137 | [只出现一次的数字 II](https://leetcode-cn.com/problems/single-number-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/137.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%20II.cpp) | medium | 位运算 |
 | 138 | [复制带随机指针的链表](https://leetcode-cn.com/problems/copy-list-with-random-pointer/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/138.%20%E5%A4%8D%E5%88%B6%E5%B8%A6%E9%9A%8F%E6%9C%BA%E6%8C%87%E9%92%88%E7%9A%84%E9%93%BE%E8%A1%A8.cpp) | medium | 哈希表、链表|
 | 139 | [单词拆分](https://leetcode-cn.com/problems/word-break/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/139.%20%E5%8D%95%E8%AF%8D%E6%8B%86%E5%88%86.cpp) | medium | 动态规划|
 | 140 | [单词拆分 II](https://leetcode-cn.com/problems/word-break-ii/description/) | cpp | hard | 动态规划、回溯算法|
