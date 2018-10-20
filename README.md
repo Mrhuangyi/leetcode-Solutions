@@ -151,7 +151,7 @@
 | 143 | [重排链表](https://leetcode-cn.com/problems/reorder-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/143.%20%E9%87%8D%E6%8E%92%E9%93%BE%E8%A1%A8.cpp) | medium | 链表 |
 | 144 | [二叉树的前序遍历](https://leetcode-cn.com/problems/binary-tree-preorder-traversal/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/144.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%89%8D%E5%BA%8F%E9%81%8D%E5%8E%86.cpp) | medium | 栈、树|
 | 145 | [二叉树的后序遍历](https://leetcode-cn.com/problems/binary-tree-postorder-traversal/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/145.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%90%8E%E5%BA%8F%E9%81%8D%E5%8E%86.cpp) | hard | 栈、树|
-| 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/description/) | cpp | hard | 设计|
+| 146 | [LRU缓存机制](https://leetcode-cn.com/problems/lru-cache/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/146.%20LRU%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.cpp) | hard | 设计|
 | 147 | [对链表进行插入排序](https://leetcode-cn.com/problems/insertion-sort-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/147.%20%E5%AF%B9%E9%93%BE%E8%A1%A8%E8%BF%9B%E8%A1%8C%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F.cpp) | medium | 排序、链表|
 | 148 | [排序链表](https://leetcode-cn.com/problems/sort-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/148.%20%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8.cpp) | medium | 排序、链表|
 | 149 | [直线上最多的点数](https://leetcode-cn.com/problems/max-points-on-a-line/description/) | cpp | hard | 哈希表、数学|
