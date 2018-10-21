@@ -13,7 +13,7 @@
 | 5 | [最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/description/)| [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/5.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E5%AD%90%E4%B8%B2.md) |medium| 字符串、动态规划|
 | 6 | [Z字形变换](https://leetcode-cn.com/problems/zigzag-conversion/description/)| [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/6.%20Z%E5%AD%97%E5%BD%A2%E5%8F%98%E6%8D%A2.cpp) | medium | 字符串|
 | 7 | [反转整数](https://leetcode-cn.com/problems/reverse-integer/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/7.%20%E5%8F%8D%E8%BD%AC%E6%95%B4%E6%95%B0.cpp) | easy | 数学 |
-| 8 | [字符串转整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) | cpp | medium |  字符串、数学 |
+| 8 | [字符串转整数 (atoi)](https://leetcode-cn.com/problems/string-to-integer-atoi/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/8.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%95%B4%E6%95%B0%20(atoi).cpp) | medium |  字符串、数学 |
 | 9 | [回文数](https://leetcode-cn.com/problems/palindrome-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/9.%20%E5%9B%9E%E6%96%87%E6%95%B0.cpp) | easy | 数学 |
 | 10 | [正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/description/) | cpp | hard | 字符串、动态规划、回溯算法|
 | 11 | [盛最多水的容器](https://leetcode-cn.com/problems/container-with-most-water/description/) | cpp | medium | 数组、双指针|
