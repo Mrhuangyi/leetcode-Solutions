@@ -290,7 +290,7 @@
 | 365 | [水壶问题](https://leetcode-cn.com/problems/water-and-jug-problem/description/) | cpp | medium | 数学|
 | 367 | [有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/367.%20%E6%9C%89%E6%95%88%E7%9A%84%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.cpp) | easy | 数学、二分查找|
 | 368 | [最大整除子集](https://leetcode-cn.com/problems/largest-divisible-subset/description/) | cpp | medium | 数学、动态规划|
-| 371 | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/371.%20%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | easy | 位运算|
+| 371 | [两整数之和](https://leetcode-cn.com/problems/sum-of-two-integers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/371.%20%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)、[java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/371.%20%E4%B8%A4%E6%95%B4%E6%95%B0%E4%B9%8B%E5%92%8C.java) | easy | 位运算|
 | 372 | [超级次方](https://leetcode-cn.com/problems/super-pow/description/) | cpp | medium | 数学|
 | 373 | [查找和最小的K对数字](https://leetcode-cn.com/problems/find-k-pairs-with-smallest-sums/description/) | cpp | medium |堆|
 | 374 | [猜数字大小](https://leetcode-cn.com/problems/guess-number-higher-or-lower/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/374.%20%E7%8C%9C%E6%95%B0%E5%AD%97%E5%A4%A7%E5%B0%8F.cpp) | easy | 二分查找|
