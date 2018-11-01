@@ -37,7 +37,7 @@
 | 29 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/description/) | cpp | medium | 数学、二分查找|
 | 30 | [与所有单词相关联的字串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/description/) | cpp | hard |哈希表、双指针、字符串|
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.cpp) | medium | 数组|
-| 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/description/) | cpp | hard | 字符串、动态规划|
+| 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.cpp) | hard | 字符串、动态规划|
 | 33 | [搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/33.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | medium | 数组、二分查找|
 | 34 | [在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/) | cpp | medium | 数组、二分查找|
 | 35 | [搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/35.%20%E6%90%9C%E7%B4%A2%E6%8F%92%E5%85%A5%E4%BD%8D%E7%BD%AE.cpp) | easy | 数组、二分查找|
