@@ -89,7 +89,7 @@
 | 81 | [搜索旋转排序数组 II](https://leetcode-cn.com/problems/search-in-rotated-sorted-array-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/81.%20%E6%90%9C%E7%B4%A2%E6%97%8B%E8%BD%AC%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.cpp) | medium | 数组、二分查找|
 | 82 | [删除排序链表中的重复元素 II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/82.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0%20II.cpp) | medium | 链表 |
 | 83 | [删除排序链表中的重复元素](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/83.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.cpp) | easy | 链表|
-| 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/description/) | cpp | hard | 栈、数组|
+| 84 | [柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/84.%20%E6%9F%B1%E7%8A%B6%E5%9B%BE%E4%B8%AD%E6%9C%80%E5%A4%A7%E7%9A%84%E7%9F%A9%E5%BD%A2.cpp) | hard | 栈、数组|
 | 85 | [最大矩形](https://leetcode-cn.com/problems/maximal-rectangle/description/) | cpp | hard | 栈、数组、哈希表、动态规划|
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.cpp) | medium | 链表、双指针|
 | 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/description/) | cpp | hard | 字符串、动态规划|
