@@ -48,7 +48,7 @@
 | 40 | [组合总和 II](https://leetcode-cn.com/problems/combination-sum-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/40.%20%E7%BB%84%E5%90%88%E6%80%BB%E5%92%8C%20II.cpp) | medium | 数组、回溯算法|
 | 41 | [缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/description/) | cpp | hard | 数组|
 | 42 | [接雨水](https://leetcode-cn.com/problems/trapping-rain-water/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/42.%20%E6%8E%A5%E9%9B%A8%E6%B0%B4.cpp) | hard | 栈、 数组、双指针|
-| 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/description/) | cpp | medium | 数学、字符串|
+| 43 | [字符串相乘](https://leetcode-cn.com/problems/multiply-strings/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/43.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E4%B9%98.cpp) | medium | 数学、字符串|
 | 44 | [通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/description/) | cpp | hard | 贪心算法、字符串、动态规划、回溯算法|
 | 45 | [跳跃游戏 II](https://leetcode-cn.com/problems/jump-game-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/45.%20%E8%B7%B3%E8%B7%83%E6%B8%B8%E6%88%8F%20II.cpp) | hard | 贪心算法、数组|
 | 46 | [全排列](https://leetcode-cn.com/problems/permutations/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/46.%20%E5%85%A8%E6%8E%92%E5%88%97.cpp) | medium | 回溯算法|
