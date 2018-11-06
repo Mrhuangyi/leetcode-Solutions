@@ -34,7 +34,7 @@
 | 26 | [删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/26.%20%E5%88%A0%E9%99%A4%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E9%87%8D%E5%A4%8D%E9%A1%B9.cpp) | easy | 数组、双指针|
 | 27 | [移除元素](https://leetcode-cn.com/problems/remove-element/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/27.%20%E7%A7%BB%E9%99%A4%E5%85%83%E7%B4%A0.cpp) | easy | 数组、双指针|
 | 28 | [实现strStr()](https://leetcode-cn.com/problems/implement-strstr/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/28.%20%E5%AE%9E%E7%8E%B0strStr().cpp) | easy | 双指针、字符串|
-| 29 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/description/) | cpp | medium | 数学、二分查找|
+| 29 | [两数相除](https://leetcode-cn.com/problems/divide-two-integers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/29.%20Divide%20Two%20Integers.cpp) | medium | 数学、二分查找|
 | 30 | [与所有单词相关联的字串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/description/) | cpp | hard |哈希表、双指针、字符串|
 | 31 | [下一个排列](https://leetcode-cn.com/problems/next-permutation/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/31.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%8E%92%E5%88%97.cpp) | medium | 数组|
 | 32 | [最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/32.%20%E6%9C%80%E9%95%BF%E6%9C%89%E6%95%88%E6%8B%AC%E5%8F%B7.cpp) | hard | 字符串、动态规划|
