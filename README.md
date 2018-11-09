@@ -56,7 +56,7 @@
 | 48 | [旋转图像](https://leetcode-cn.com/problems/rotate-image/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/%E6%97%8B%E8%BD%AC%E5%9B%BE%E5%83%8F.cpp) | medium | 数组 |
 | 49 | [字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/description/) | cpp、[java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/49.%20%E5%AD%97%E6%AF%8D%E5%BC%82%E4%BD%8D%E8%AF%8D%E5%88%86%E7%BB%84.java) | medium | 哈希表、字符串|
 | 50 | [Pow(x, n)](https://leetcode-cn.com/problems/powx-n/description/) | cpp | medium | 数学、二分查找|
-| 51 | [N皇后](https://leetcode-cn.com/problems/n-queens/description/) | cpp | hard | 回溯算法 | 
+| 51 | [N皇后](https://leetcode-cn.com/problems/n-queens/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/51.%20N%E7%9A%87%E5%90%8E.cpp) | hard | 回溯算法 | 
 | 52 | [N皇后 II](https://leetcode-cn.com/problems/n-queens-ii/description/) | cpp | hard | 回溯算法 |
 | 53 | [最大子序和](https://leetcode-cn.com/problems/maximum-subarray/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/53.%20%E6%9C%80%E5%A4%A7%E5%AD%90%E5%BA%8F%E5%92%8C.cpp) | easy | 数组、分治算法、动态规划|
 | 54 | [螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/description/) | cpp | medium | 数组|
