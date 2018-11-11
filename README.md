@@ -78,7 +78,7 @@
 | 70 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) | easy | 动态规划 |
 | 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/description/) | cpp | medium | 栈、字符串 |
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/description/) | cpp | hard | 字符串、动态规划|
-| 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/description/) | cpp | medium | 数组 |
+| 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/73.%20%E7%9F%A9%E9%98%B5%E7%BD%AE%E9%9B%B6.cpp) | medium | 数组 |
 | 74 | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/74.%20%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.cpp) | medium | 数组、二分查找|
 | 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/description/) | cpp | medium | 排序、数组、双指针|
 | 76 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/description/) | cpp | hard | 哈希表、双指针、字符串|
