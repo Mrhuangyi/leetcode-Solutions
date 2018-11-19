@@ -163,7 +163,7 @@
 | 155 | [最小栈](https://leetcode-cn.com/problems/min-stack/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/155.%20%E6%9C%80%E5%B0%8F%E6%A0%88.cpp) | easy | 栈、设计|
 | 160 | [相交链表](https://leetcode-cn.com/problems/intersection-of-two-linked-lists/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/160.%20%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp) | easy | 链表|
 | 162 | [寻找峰值](https://leetcode-cn.com/problems/find-peak-element/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/162.%20%E5%AF%BB%E6%89%BE%E5%B3%B0%E5%80%BC.cpp) | medium | 数组、二分查找|
-| 164 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/description/) | cpp | hard | 排序 |
+| 164 | [最大间距](https://leetcode-cn.com/problems/maximum-gap/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/164.%20%E6%9C%80%E5%A4%A7%E9%97%B4%E8%B7%9D.cpp) | hard | 排序 |
 | 165 | [比较版本号](https://leetcode-cn.com/problems/compare-version-numbers/description/) | cpp | medium | 字符串 |
 | 166 | [分数到小数](https://leetcode-cn.com/problems/fraction-to-recurring-decimal/description/) | cpp | medium | 哈希表、数学|
 | 167 | [两数之和 II - 输入有序数组](https://leetcode-cn.com/problems/two-sum-ii-input-array-is-sorted/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/167.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20II%20-%20%E8%BE%93%E5%85%A5%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | easy | 数组、双指针、二分查找|
