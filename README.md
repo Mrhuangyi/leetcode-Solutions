@@ -173,7 +173,7 @@
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/172.%20%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.cpp) | easy | 数学|
 | 173 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/description/) | cpp | medium | 栈、树、设计|
 | 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/description/) | cpp | hard | 二分查找、动态规划|
-| 179 | [最大数](https://leetcode-cn.com/problems/largest-number/description/) | cpp | medium | 排序|
+| 179 | [最大数](https://leetcode-cn.com/problems/largest-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/179.%20%E6%9C%80%E5%A4%A7%E6%95%B0.cpp) | medium | 排序|
 | 187 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/description/) | cpp | medium | 位运算、哈希表 |
 | 188 | [买卖股票的最佳时机 IV](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-iv/description/) | cpp | hard | 动态规划|
 | 189 | [旋转数组](https://leetcode-cn.com/problems/rotate-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/189.%20%E6%97%8B%E8%BD%AC%E6%95%B0%E7%BB%84.cpp) | easy | 数组|
