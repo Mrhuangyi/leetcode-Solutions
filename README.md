@@ -188,7 +188,7 @@
 | 204 | [计数质数](https://leetcode-cn.com/problems/count-primes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/204.%20%E8%AE%A1%E6%95%B0%E8%B4%A8%E6%95%B0.cpp) | easy | 哈希表、数学|
 | 205 | [同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/205.%20%E5%90%8C%E6%9E%84%E5%AD%97%E7%AC%A6%E4%B8%B2) | easy | 哈希表|
 | 206 | [反转链表](https://leetcode-cn.com/problems/reverse-linked-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/206.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp) | easy | 链表|
-| 207 | [课程表](https://leetcode-cn.com/problems/course-schedule/description/) | cpp | medium | 搜索、图、拓扑排序|
+| 207 | [课程表](https://leetcode-cn.com/problems/course-schedule/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/207.%20%E8%AF%BE%E7%A8%8B%E8%A1%A8.cpp) | medium | 搜索、图、拓扑排序|
 | 208 | [实现 Trie (前缀树)](https://leetcode-cn.com/problems/implement-trie-prefix-tree/description/) | cpp | medium | 设计、字典树|
 | 209 | [长度最小的子数组](https://leetcode-cn.com/problems/minimum-size-subarray-sum/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/209.%20%E9%95%BF%E5%BA%A6%E6%9C%80%E5%B0%8F%E7%9A%84%E5%AD%90%E6%95%B0%E7%BB%84.cpp) | medium | 数组、双指针、二分查找|
 | 210 | [课程表 II](https://leetcode-cn.com/problems/course-schedule-ii/description/) | cpp | medium | 搜索、图、拓扑排序|
