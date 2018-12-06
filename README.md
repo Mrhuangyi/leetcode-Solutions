@@ -171,7 +171,7 @@
 | 169 | [求众数](https://leetcode-cn.com/problems/majority-element/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/169.%20%E6%B1%82%E4%BC%97%E6%95%B0.cpp) | easy | 位运算、数组、分治算法|
 | 171 | [Excel表列序号](https://leetcode-cn.com/problems/excel-sheet-column-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/171.%20Excel%E8%A1%A8%E5%88%97%E5%BA%8F%E5%8F%B7.cpp) | easy | 数学|
 | 172 | [阶乘后的零](https://leetcode-cn.com/problems/factorial-trailing-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/172.%20%E9%98%B6%E4%B9%98%E5%90%8E%E7%9A%84%E9%9B%B6.cpp) | easy | 数学|
-| 173 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/description/) | cpp | medium | 栈、树、设计|
+| 173 | [二叉搜索树迭代器](https://leetcode-cn.com/problems/binary-search-tree-iterator/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/173.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E8%BF%AD%E4%BB%A3.cpp) | medium | 栈、树、设计|
 | 174 | [地下城游戏](https://leetcode-cn.com/problems/dungeon-game/description/) | cpp | hard | 二分查找、动态规划|
 | 179 | [最大数](https://leetcode-cn.com/problems/largest-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/179.%20%E6%9C%80%E5%A4%A7%E6%95%B0.cpp) | medium | 排序|
 | 187 | [重复的DNA序列](https://leetcode-cn.com/problems/repeated-dna-sequences/description/) | cpp | medium | 位运算、哈希表 |
