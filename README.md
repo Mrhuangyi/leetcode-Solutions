@@ -211,7 +211,7 @@
 | 227 | [基本计算器 II](https://leetcode-cn.com/problems/basic-calculator-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/227.%20%E5%9F%BA%E6%9C%AC%E8%AE%A1%E7%AE%97%E5%99%A8%20II.cpp) | medium | 字符串|
 | 228 | [汇总区间](https://leetcode-cn.com/problems/summary-ranges/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/228.%20%E6%B1%87%E6%80%BB%E5%8C%BA%E9%97%B4.cpp) | medium | 数组| 
 | 229 | [求众数 II](https://leetcode-cn.com/problems/majority-element-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/229.%20%E6%B1%82%E4%BC%97%E6%95%B0%20II.cpp) | medium | 数组|
-| 230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | cpp | medium | 树、二分查找|
+| 230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.cpp) | medium | 树、二分查找|
 | 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/231.%202%E7%9A%84%E5%B9%82.cpp) | easy | 位运算、数学| 
 | 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp) | easy | 栈、设计|
 | 233 | [数字1的个数](https://leetcode-cn.com/problems/number-of-digit-one/description/) | cpp | hard | 数学|
