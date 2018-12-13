@@ -214,10 +214,10 @@
 | 230 | [二叉搜索树中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-bst/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/230.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%AC%ACK%E5%B0%8F%E7%9A%84%E5%85%83%E7%B4%A0.cpp) | medium | 树、二分查找|
 | 231 | [2的幂](https://leetcode-cn.com/problems/power-of-two/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/231.%202%E7%9A%84%E5%B9%82.cpp) | easy | 位运算、数学| 
 | 232 | [用栈实现队列](https://leetcode-cn.com/problems/implement-queue-using-stacks/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/232.%20%E7%94%A8%E6%A0%88%E5%AE%9E%E7%8E%B0%E9%98%9F%E5%88%97.cpp) | easy | 栈、设计|
-| 233 | [数字1的个数](https://leetcode-cn.com/problems/number-of-digit-one/description/) | cpp | hard | 数学|
+| 233 | [数字1的个数](https://leetcode-cn.com/problems/number-of-digit-one/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/233.%20%E6%95%B0%E5%AD%971%E7%9A%84%E4%B8%AA%E6%95%B0.cpp) | hard | 数学|
 | 234 | [回文链表](https://leetcode-cn.com/problems/palindrome-linked-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/234.%20Palindrome%20Linked%20List.cpp) | easy | 链表、双指针|
 | 235 | [二叉搜索树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/235.%20Lowest%20Common%20Ancestor%20of%20a%20Binary%20Search%20Tree.cpp) | easy | 树|
-| 236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | cpp | medium | 树|
+| 236 | [二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/236.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E8%BF%91%E5%85%AC%E5%85%B1%E7%A5%96%E5%85%88.cpp) | medium | 树|
 | 237 | [删除链表中的节点](https://leetcode-cn.com/problems/delete-node-in-a-linked-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/237.%20%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.cpp) | easy | 链表|
 | 238 | [除自身以外数组的乘积](https://leetcode-cn.com/problems/product-of-array-except-self/description/) | cpp | medium | 数组|
 | 239 | [滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/description/) | cpp | hard | 堆 | 
