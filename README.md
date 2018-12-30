@@ -228,7 +228,7 @@
 | 258 | [各位相加](https://leetcode-cn.com/problems/add-digits/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/258.%20%E5%90%84%E4%BD%8D%E7%9B%B8%E5%8A%A0.cpp) | easy | 数学 |
 | 260 | [只出现一次的数字 III](https://leetcode-cn.com/problems/single-number-iii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/260.%20%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97%20III.cpp) | medium | 位运算|
 | 263 | [丑数](https://leetcode-cn.com/problems/ugly-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/263.%20%E4%B8%91%E6%95%B0.cpp) | easy | 数学|
-| 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/description/) | cpp | medium | 堆、数学、动态规划|
+| 264 | [丑数 II](https://leetcode-cn.com/problems/ugly-number-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/264.%20%E4%B8%91%E6%95%B0%20II.cpp) | medium | 堆、数学、动态规划|
 | 268 | [缺失数字](https://leetcode-cn.com/problems/missing-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/268.%20%E7%BC%BA%E5%A4%B1%E6%95%B0%E5%AD%97.cpp) | easy | 位运算、数组、数学|
 | 273 | [整数转换英文表示](https://leetcode-cn.com/problems/integer-to-english-words/description/) | cpp | hard |数学、字符串|
 | 274 | [H指数](https://leetcode-cn.com/problems/h-index/description/) | cpp | medium | 排序、哈希表|
