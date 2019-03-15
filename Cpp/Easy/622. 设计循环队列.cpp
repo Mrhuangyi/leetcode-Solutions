@@ -39,71 +39,79 @@ circularQueue.Rear();  // 返回4
 操作数将在 1 至 1000 的范围内；
 请不要使用内置的队列库。
 
-
 class MyCircularQueue {
 private:
-    int size;
     vector<int> q;
+    int head;
+    int tail;
+    int cnt;
+    int len;
 public:
     /** Initialize your data structure here. Set the size of the queue to be k. */
     MyCircularQueue(int k) {
-        size = k;
+        len = k;
+        vector<int> temp(k, 0);
+        q = temp;
+        cnt = 0;
+        head = k - 1;
+        tail = 0;
     }
     
     /** Insert an element into the circular queue. Return true if the operation is successful. */
     bool enQueue(int value) {
-        if(isFull()) {
+        if(cnt == len) {
             return false;
         }
-        q.push_back(value);
+        q[tail] = value;
+        tail = (tail + 1) % len;
+        ++cnt;
         return true;
     }
     
     /** Delete an element from the circular queue. Return true if the operation is successful. */
     bool deQueue() {
-        if(isEmpty()) {
+        if(cnt == 0) {
             return false;
         }
-        q.erase(q.begin());
+        head = (head + 1) % len;
+        --cnt;
         return true;
     }
     
     /** Get the front item from the queue. */
     int Front() {
-        if(isEmpty()) {
+        if(cnt == 0) {
             return -1;
-        } else {
-            return q.front();
         }
+        return q[(head + 1) % len];
     }
     
     /** Get the last item from the queue. */
     int Rear() {
-        if(isEmpty()) {
+        if(cnt == 0) {
             return -1;
-        } else {
-            return q.back();
         }
+        return q[(tail - 1 + len) % len];
     }
     
     /** Checks whether the circular queue is empty or not. */
     bool isEmpty() {
-        return q.size() == 0;
+        return cnt == 0;
     }
     
     /** Checks whether the circular queue is full or not. */
     bool isFull() {
-        return q.size() == size;
+        return cnt == len;
     }
 };
 
 /**
  * Your MyCircularQueue object will be instantiated and called as such:
- * MyCircularQueue obj = new MyCircularQueue(k);
- * bool param_1 = obj.enQueue(value);
- * bool param_2 = obj.deQueue();
- * int param_3 = obj.Front();
- * int param_4 = obj.Rear();
- * bool param_5 = obj.isEmpty();
- * bool param_6 = obj.isFull();
+ * MyCircularQueue* obj = new MyCircularQueue(k);
+ * bool param_1 = obj->enQueue(value);
+ * bool param_2 = obj->deQueue();
+ * int param_3 = obj->Front();
+ * int param_4 = obj->Rear();
+ * bool param_5 = obj->isEmpty();
+ * bool param_6 = obj->isFull();
  */
