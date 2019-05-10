@@ -412,7 +412,7 @@
 | 521 | [最长特殊序列 Ⅰ](https://leetcode-cn.com/problems/longest-uncommon-subsequence-i/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/521.%20%E6%9C%80%E9%95%BF%E7%89%B9%E6%AE%8A%E5%BA%8F%E5%88%97%20%E2%85%A0.cpp) | easy | 字符串 |
 | 522 | [最长特殊序列 II](https://leetcode-cn.com/problems/longest-uncommon-subsequence-ii/description/) | cpp |medium | 字符串 |
 | 523 | [连续的子数组和](https://leetcode-cn.com/problems/continuous-subarray-sum/description/) | cpp | medium | 数学、动态规划 |
-| 524 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/description/) | cpp | medium | 排序、双指针 |
+| 524 | [通过删除字母匹配到字典里最长单词](https://leetcode-cn.com/problems/longest-word-in-dictionary-through-deleting/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/524.%20%E9%80%9A%E8%BF%87%E5%88%A0%E9%99%A4%E5%AD%97%E6%AF%8D%E5%8C%B9%E9%85%8D%E5%88%B0%E5%AD%97%E5%85%B8%E9%87%8C%E6%9C%80%E9%95%BF%E5%8D%95%E8%AF%8D.java) | medium | 排序、双指针 |
 | 525 | [连续数组](https://leetcode-cn.com/problems/contiguous-array/description/) | cpp | medium | 哈希表 |
 | 526 | [优美的排列](https://leetcode-cn.com/problems/beautiful-arrangement/description/) | cpp | medium | 回溯算法 |
 | 528 | [按权重随机选择](https://leetcode-cn.com/problems/random-pick-with-weight/description/) | cpp | medium | 二分查找、随机 |
