@@ -509,7 +509,7 @@
 | 677 | [键值映射](https://leetcode-cn.com/problems/map-sum-pairs/description/) | cpp | medium | 字典树 |
 | 678 | [有效的括号字符串](https://leetcode-cn.com/problems/valid-parenthesis-string/description/) | cpp | medium | 字符串 |
 | 679 | [24点游戏](https://leetcode-cn.com/problems/24-game/description/) | cpp | hard | 深度优先搜索 |
-| 680 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.cpp) | easy | 字符串 |
+| 680 | [验证回文字符串 Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/680.%20%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E5%AD%97%E7%AC%A6%E4%B8%B2%20%E2%85%A1.java) | easy | 字符串 |
 | 682 | [棒球比赛](https://leetcode-cn.com/problems/baseball-game/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/682.%20%E6%A3%92%E7%90%83%E6%AF%94%E8%B5%9B.cpp) | easy | 栈 |
 | 684 | [冗余连接](https://leetcode-cn.com/problems/redundant-connection/description/) | cpp | medium | 树、并查集、图 |
 | 685 | [冗余连接 II](https://leetcode-cn.com/problems/redundant-connection-ii/description/) | cpp | hard | 树、并查集、图|
