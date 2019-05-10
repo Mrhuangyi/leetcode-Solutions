@@ -471,7 +471,7 @@
 | 629 | [K个逆序对数组](https://leetcode-cn.com/problems/k-inverse-pairs-array/description/) | cpp | hard | 动态规划 |
 | 630 | [课程表 III](https://leetcode-cn.com/problems/course-schedule-iii/description/) | cpp | hard | 贪心算法 |
 | 632 | [最小区间](https://leetcode-cn.com/problems/smallest-range/description/) | cpp | hard | 哈希表、双指针、字符串 |
-| 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/633.%20%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | easy | 数学 |
+| 633 | [平方数之和](https://leetcode-cn.com/problems/sum-of-square-numbers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/633.%20%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/633.%20%E5%B9%B3%E6%96%B9%E6%95%B0%E4%B9%8B%E5%92%8C.java) | easy | 数学 |
 | 636 | [函数的独占时间](https://leetcode-cn.com/problems/exclusive-time-of-functions/description/) | cpp | medium | 栈 |
 | 637 | [二叉树的层平均值](https://leetcode-cn.com/problems/average-of-levels-in-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/637.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E5%B1%82%E5%B9%B3%E5%9D%87%E5%80%BC.cpp) | easy | 树 |
 | 638 | [大礼包](https://leetcode-cn.com/problems/shopping-offers/description/) | cpp | medium | 深度优先搜索、动态规划 |
