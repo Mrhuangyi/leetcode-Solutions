@@ -11,7 +11,6 @@ class Solution {
     }
 }
 
-
 class Solution {
     public int findKthLargest(int[] nums, int k) {
         k = nums.length - k;
@@ -30,19 +29,19 @@ class Solution {
     }
     private int partition(int a[], int left, int right) {
     int pivot = a[left];
-    int i = left;
-    int j = right + 1;
-    while (true) {
-        while (a[++i] < a[left] && i < right) ;
-        while (a[--j] > a[left] && j > left) ;
-        if (i >= j) {
-            break;
+    while(left < right) {
+        while(left < right && a[right] >= pivot) {
+            right--;
         }
-        swap(a, i, j);
+        a[left] = a[right];
+        while(left < right && a[left] <= pivot) {
+            left++;
+        }
+        a[right] = a[left];
     }
-    swap(a, left, j);
-    return j;
-}
+    a[left] = pivot;
+    return left;
+    }
     private void swap(int[] nums, int a, int b) {
         int temp = nums[a];
         nums[a] = nums[b];
