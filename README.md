@@ -80,7 +80,7 @@
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/description/) | cpp | hard | 字符串、动态规划|
 | 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/73.%20%E7%9F%A9%E9%98%B5%E7%BD%AE%E9%9B%B6.cpp) | medium | 数组 |
 | 74 | [搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/74.%20%E6%90%9C%E7%B4%A2%E4%BA%8C%E7%BB%B4%E7%9F%A9%E9%98%B5.cpp) | medium | 数组、二分查找|
-| 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.cpp) | medium | 排序、数组、双指针|
+| 75 | [颜色分类](https://leetcode-cn.com/problems/sort-colors/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/75.%20%E9%A2%9C%E8%89%B2%E5%88%86%E7%B1%BB.java) | medium | 排序、数组、双指针|
 | 76 | [最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/description/) | cpp | hard | 哈希表、双指针、字符串|
 | 77 | [组合](https://leetcode-cn.com/problems/combinations/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/77.%20%E7%BB%84%E5%90%88.cpp) | medium | 回溯算法 |
 | 78 | [子集](https://leetcode-cn.com/problems/subsets/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/78.%20%E5%AD%90%E9%9B%86.cpp) | medium | 位运算、数组、回溯算法|
