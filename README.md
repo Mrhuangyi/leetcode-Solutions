@@ -307,7 +307,7 @@
 | 386 | [字典序排数](https://leetcode-cn.com/problems/lexicographical-numbers/description/) | cpp | medium | 字典序|
 | 387 | [字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/387.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%94%AF%E4%B8%80%E5%AD%97%E7%AC%A6.cpp) | easy | 哈希表、字符串|
 | 389 | [找不同](https://leetcode-cn.com/problems/find-the-difference/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/389.%20%E6%89%BE%E4%B8%8D%E5%90%8C.cpp) | easy | 位运算、哈希表|
-| 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/) | cpp | medium | 贪心算法、二分查找、动态规划|
+| 392 | [判断子序列](https://leetcode-cn.com/problems/is-subsequence/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/392.%20%E5%88%A4%E6%96%AD%E5%AD%90%E5%BA%8F%E5%88%97.java) | medium | 贪心算法、二分查找、动态规划|
 | 393 | [UTF-8 编码验证](https://leetcode-cn.com/problems/utf-8-validation/description/) | cpp | medium | 位运算|
 | 394 | [字符串解码](https://leetcode-cn.com/problems/decode-string/description/) | cpp | medium | 栈、深度优先搜索 |
 | 395 | [至少有K个重复字符的最长子串](https://leetcode-cn.com/problems/longest-substring-with-at-least-k-repeating-characters/description/) | cpp | medium | 字符串|
