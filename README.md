@@ -574,7 +574,7 @@
 | 757 | [设置交集大小至少为2](https://leetcode-cn.com/problems/set-intersection-size-at-least-two/description/) | cpp | hard | 贪心算法|
 | 761 | [特殊的二进制序列](https://leetcode-cn.com/problems/special-binary-string/description/) | cpp | medium | 递归、字符串|
 | 762 | [二进制表示中质数个计算置位](https://leetcode-cn.com/problems/prime-number-of-set-bits-in-binary-representation/description/) | cpp | easy | 位运算 |
-|  763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/description/) | cpp | medium | 贪心算法、双指针 |
+|  763 | [划分字母区间](https://leetcode-cn.com/problems/partition-labels/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/763.%20%E5%88%92%E5%88%86%E5%AD%97%E6%AF%8D%E5%8C%BA%E9%97%B4.java) | medium | 贪心算法、双指针 |
 | 764 | [最大加号标志](https://leetcode-cn.com/problems/largest-plus-sign/description/) | cpp | medium | 动态规划 |
 | 765 | [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/description/) | cpp | medium | 贪心算法、并查集、图|
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/766.%20%E6%89%98%E6%99%AE%E5%88%A9%E8%8C%A8%E7%9F%A9%E9%98%B5.cpp) | easy | 数组|
