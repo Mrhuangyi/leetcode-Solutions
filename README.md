@@ -495,7 +495,7 @@
 | 661 | [图片平滑器](https://leetcode-cn.com/problems/image-smoother/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/661.%20%E5%9B%BE%E7%89%87%E5%B9%B3%E6%BB%91%E5%99%A8.cpp) | easy | 数组 |
 | 662 | [二叉树最大宽度](https://leetcode-cn.com/problems/maximum-width-of-binary-tree/description/) | cpp | medium | 树 |
 | 664 | [奇怪的打印机](https://leetcode-cn.com/problems/strange-printer/description/) | cpp |hard | 深度优先搜索、动态规划 |
-| 665 | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/665.%20%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.cpp) | easy | 数组|
+| 665 | [非递减数列](https://leetcode-cn.com/problems/non-decreasing-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/665.%20%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/665.%20%E9%9D%9E%E9%80%92%E5%87%8F%E6%95%B0%E5%88%97.java) | easy | 数组|
 | 667 | [优美的排列 II](https://leetcode-cn.com/problems/beautiful-arrangement-ii/description/) | cpp | medium | 数组| 
 | 668 | [乘法表中第k小的数](https://leetcode-cn.com/problems/kth-smallest-number-in-multiplication-table/description/) | cpp | hard | 二分查找|
 | 669 | [修剪二叉搜索树](https://leetcode-cn.com/problems/trim-a-binary-search-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/669.%20%E4%BF%AE%E5%89%AA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.cpp) | easy | 树 |
