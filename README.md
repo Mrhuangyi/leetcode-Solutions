@@ -321,7 +321,7 @@
 | 403 | [青蛙过河](https://leetcode-cn.com/problems/frog-jump/description/) | cpp | hard | 动态规划|
 | 404 | [左叶子之和](https://leetcode-cn.com/problems/sum-of-left-leaves/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/404.%20%E5%B7%A6%E5%8F%B6%E5%AD%90%E4%B9%8B%E5%92%8C.cpp) | easy | 树|
 | 405 | [数字转换为十六进制数](https://leetcode-cn.com/problems/convert-a-number-to-hexadecimal/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/405.%20%E6%95%B0%E5%AD%97%E8%BD%AC%E6%8D%A2%E4%B8%BA%E5%8D%81%E5%85%AD%E8%BF%9B%E5%88%B6%E6%95%B0.cpp) | easy | 位运算|
-| 406 | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/description/) | cpp | medium | 贪心算法|
+| 406 | [根据身高重建队列](https://leetcode-cn.com/problems/queue-reconstruction-by-height/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/406.%20%E6%A0%B9%E6%8D%AE%E8%BA%AB%E9%AB%98%E9%87%8D%E5%BB%BA%E9%98%9F%E5%88%97.java) | medium | 贪心算法|
 | 407 | [接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/description/) | cpp | hard | 堆、广度优先搜索|
 | 409 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/409.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) | easy | 哈希表|
 | 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/description/) | cpp | hard | 二分查找、动态规划|
