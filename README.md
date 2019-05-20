@@ -459,7 +459,7 @@
 | 598 | [范围求和 II](https://leetcode-cn.com/problems/range-addition-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/598.%20%E8%8C%83%E5%9B%B4%E6%B1%82%E5%92%8C%20II.cpp) | easy | 数学 |
 | 599 | [两个列表的最小索引总和](https://leetcode-cn.com/problems/minimum-index-sum-of-two-lists/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/599.%20%E4%B8%A4%E4%B8%AA%E5%88%97%E8%A1%A8%E7%9A%84%E6%9C%80%E5%B0%8F%E7%B4%A2%E5%BC%95%E6%80%BB%E5%92%8C.cpp) | easy | 哈希表 |
 | 600 | [不含连续1的非负整数](https://leetcode-cn.com/problems/non-negative-integers-without-consecutive-ones/description/) | cpp | hard | 动态规划 |
-| 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.cpp) | easy | 数组 |
+| 605 | [种花问题](https://leetcode-cn.com/problems/can-place-flowers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/605.%20%E7%A7%8D%E8%8A%B1%E9%97%AE%E9%A2%98.java) | easy | 数组 |
 | 606 | [根据二叉树创建字符串](https://leetcode-cn.com/problems/construct-string-from-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/606.%20%E6%A0%B9%E6%8D%AE%E4%BA%8C%E5%8F%89%E6%A0%91%E5%88%9B%E5%BB%BA%E5%AD%97%E7%AC%A6%E4%B8%B2.cpp) | easy | 树、字符串 |
 | 609 | [在系统中查找重复文件](https://leetcode-cn.com/problems/find-duplicate-file-in-system/description/) | cpp | medium | 哈希表、字符串|
 | 611 | [有效三角形的个数](https://leetcode-cn.com/problems/valid-triangle-number/description/) | cpp | medium | 数组|
