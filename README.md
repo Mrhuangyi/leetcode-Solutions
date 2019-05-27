@@ -428,7 +428,7 @@
 | 542 | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/description/) | cpp | medium | 搜索 |
 | 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/543.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.cpp) | easy | 树 |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/description/) | cpp | hard | 深度优先搜索、动态规划  |
-| 547 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/description/) | cpp | medium | 深度优先搜索、并查集 |
+| 547 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/547.%20%E6%9C%8B%E5%8F%8B%E5%9C%88.java) | medium | 深度优先搜索、并查集 |
 | 551 | [学生出勤纪录 I](https://leetcode-cn.com/problems/student-attendance-record-i/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/551.%20%E5%AD%A6%E7%94%9F%E5%87%BA%E5%8B%A4%E7%BA%AA%E5%BD%95%20I.cpp) | easy | 字符串 |
 | 552 | [学生出勤记录 II](https://leetcode-cn.com/problems/student-attendance-record-ii/description/) | cpp | hard | 动态规划 |
 | 553 | [最优除法](https://leetcode-cn.com/problems/optimal-division/description/) | cpp |medium | 数学、字符串 |
