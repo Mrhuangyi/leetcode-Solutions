@@ -521,7 +521,7 @@
 | 691 | [Stickers to Spell Word](https://leetcode-cn.com/problems/stickers-to-spell-word/description/) | cpp | hard | 动态规划、回溯算法|
 | 692 | [前K个高频单词](https://leetcode-cn.com/problems/top-k-frequent-words/description/) | cpp | medium | 堆、字典树、哈希表 |
 | 693 | [交替位二进制数](https://leetcode-cn.com/problems/binary-number-with-alternating-bits/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/693.%20%E4%BA%A4%E6%9B%BF%E4%BD%8D%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%95%B0.cpp) | easy | 位运算 |
-| 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.cpp) | easy | 深度优先搜索、数组|
+| 695 | [岛屿的最大面积](https://leetcode-cn.com/problems/max-area-of-island/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/695.%20%E5%B2%9B%E5%B1%BF%E7%9A%84%E6%9C%80%E5%A4%A7%E9%9D%A2%E7%A7%AF.java) | easy | 深度优先搜索、数组|
 | 696 | [计数二进制子串](https://leetcode-cn.com/problems/count-binary-substrings/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/696.%20%E8%AE%A1%E6%95%B0%E4%BA%8C%E8%BF%9B%E5%88%B6%E5%AD%90%E4%B8%B2.cpp) | easy | 位运算 |
 | 697 | [数组的度](https://leetcode-cn.com/problems/degree-of-an-array/description/) | cpp | medium | 数组|
 | 698 | [划分为k个相等的子集](https://leetcode-cn.com/problems/partition-to-k-equal-sum-subsets/description/) | cpp | medium | 递归、动态规划 |
