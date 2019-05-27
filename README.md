@@ -234,7 +234,7 @@
 | 274 | [H指数](https://leetcode-cn.com/problems/h-index/description/) | cpp | medium | 排序、哈希表|
 | 275 | [H指数 II](https://leetcode-cn.com/problems/h-index-ii/description/) | cpp | medium | 二分查找|
 | 278 | [第一个错误的版本](https://leetcode-cn.com/problems/first-bad-version/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/278.%20%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.java) | easy | 二分查找|
-| 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.cpp) | medium | 广度优先搜索、数学、动态规划|
+| 279 | [完全平方数](https://leetcode-cn.com/problems/perfect-squares/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/279.%20%E5%AE%8C%E5%85%A8%E5%B9%B3%E6%96%B9%E6%95%B0.java) | medium | 广度优先搜索、数学、动态规划|
 | 282 | [给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators/description/) | cpp | hard | 分治算法|
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.cpp) | easy | 数组、双指针|
 | 284 | [顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/description/) | cpp | medium | 设计|
