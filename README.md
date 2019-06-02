@@ -273,7 +273,7 @@
 | 335 | [路径交叉](https://leetcode-cn.com/problems/self-crossing/description/) | cpp | hard | 数学|
 | 336 | [回文对](https://leetcode-cn.com/problems/palindrome-pairs/description/) | cpp | hard | 字典树、哈希表、字符串|
 | 337 | [打家劫舍 III](https://leetcode-cn.com/problems/house-robber-iii/description/) | cpp | medium | 树、深度优先搜索|
-| 338 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/description/) | cpp | medium | 位运算、动态规划|
+| 338 | [比特位计数](https://leetcode-cn.com/problems/counting-bits/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/338.%20Bit%E4%BD%8D%E8%AE%A1%E6%95%B0.cpp) | medium | 位运算、动态规划|
 | 341 | [扁平化嵌套列表迭代器](https://leetcode-cn.com/problems/flatten-nested-list-iterator/description/) | cpp | medium | 栈、设计|
 | 342 | [4的幂](https://leetcode-cn.com/problems/power-of-four/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/342.%204%E7%9A%84%E5%B9%82.cpp) | easy | 位运算|
 | 343 | [整数拆分](https://leetcode-cn.com/problems/integer-break/description/) | cpp | medium | 数学、动态规划|
