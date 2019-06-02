@@ -75,7 +75,7 @@
 | 67 | [二进制求和](https://leetcode-cn.com/problems/add-binary/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/67.%20%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%B1%82%E5%92%8C.cpp) | easy | 数学、字符串|
 | 68 | [文本左右对齐](https://leetcode-cn.com/problems/text-justification/description/) | cpp | hard | 字符串 |
 | 69 | [x 的平方根](https://leetcode-cn.com/problems/sqrtx/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/69.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/69.%20x%20%E7%9A%84%E5%B9%B3%E6%96%B9%E6%A0%B9.java) | easy | 数学、二分查找|
-| 70 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp) | easy | 动态规划 |
+| 70 | [爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/70.%20%E7%88%AC%E6%A5%BC%E6%A2%AF.java) | easy | 动态规划 |
 | 71 | [简化路径](https://leetcode-cn.com/problems/simplify-path/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/71.%20%E7%AE%80%E5%8C%96%E8%B7%AF%E5%BE%84.cpp) | medium | 栈、字符串 |
 | 72 | [编辑距离](https://leetcode-cn.com/problems/edit-distance/description/) | cpp | hard | 字符串、动态规划|
 | 73 | [矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/73.%20%E7%9F%A9%E9%98%B5%E7%BD%AE%E9%9B%B6.cpp) | medium | 数组 |
