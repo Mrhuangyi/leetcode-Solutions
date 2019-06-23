@@ -325,6 +325,7 @@
 | 407 | [接雨水 II](https://leetcode-cn.com/problems/trapping-rain-water-ii/description/) | cpp | hard | 堆、广度优先搜索|
 | 409 | [最长回文串](https://leetcode-cn.com/problems/longest-palindrome/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/409.%20%E6%9C%80%E9%95%BF%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) | easy | 哈希表|
 | 410 | [分割数组的最大值](https://leetcode-cn.com/problems/split-array-largest-sum/description/) | cpp | hard | 二分查找、动态规划|
+| 412 | [412. Fizz Buzz](https://leetcode-cn.com/problems/fizz-buzz/submissions/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/412.%20Fizz%20Buzz.cpp) | easy | 字符串 |
 | 413 | [等差数列划分](https://leetcode-cn.com/problems/arithmetic-slices/description/) | cpp | medium | 数学、动态规划|
 | 414 | [第三大的数](https://leetcode-cn.com/problems/third-maximum-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/414.%20%E7%AC%AC%E4%B8%89%E5%A4%A7%E7%9A%84%E6%95%B0.cpp)| easy | 数组|
 | 415 | [字符串相加](https://leetcode-cn.com/problems/add-strings/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/415.%20%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9B%B8%E5%8A%A0.cpp) | easy | 数学|
