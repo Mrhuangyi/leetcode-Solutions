@@ -489,7 +489,7 @@
 | 652 | [寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/description/) | cpp | medium | 树 |
 | 653 | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/653.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20IV%20-%20%E8%BE%93%E5%85%A5%20BST.cpp) | easy | 树 |
 | 654 | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/description/) | cpp | medium | 树 |
-| 655 | [输出二叉树](https://leetcode-cn.com/problems/print-binary-tree/description/) | cpp | medium | 树 |
+| 655 | [输出二叉树](https://leetcode-cn.com/problems/print-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/655.%20%E8%BE%93%E5%87%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp) | medium | 树 |
 | 657 | [机器人能否返回原点](https://leetcode-cn.com/problems/robot-return-to-origin/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/657.%20%E5%88%A4%E6%96%AD%E8%B7%AF%E7%BA%BF%E6%88%90%E5%9C%88.cpp) | easy | 字符串 | 
 | 658 | [找到 K 个最接近的元素](https://leetcode-cn.com/problems/find-k-closest-elements/description/) | cpp | medium | 二分查找|
 | 659 | [分割数组为连续子序列](https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/description/) | cpp | medium | 堆、贪心算法 |
