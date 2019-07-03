@@ -32,3 +32,23 @@ public:
         return res;
     }
 };
+
+
+class Solution {
+public:
+    vector<int> plusOne(vector<int>& digits) {
+        vector<int> res(digits.size(), 0);
+        int sum = 0;
+        int one = 1;
+        int len = digits.size();
+        while(len--) {
+            sum = one + digits[len];
+            one = sum / 10;
+            res[len] = sum % 10;
+        }
+        if(one > 0) {
+            res.insert(res.begin(), one);
+        }
+        return res;
+    }
+};
