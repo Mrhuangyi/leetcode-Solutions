@@ -547,7 +547,7 @@
 | 721 | [账户合并](https://leetcode-cn.com/problems/accounts-merge/description/) | cpp | medium | 深度优先搜索、并查集 |
 | 722 | [删除注释](https://leetcode-cn.com/problems/remove-comments/description/) | cpp | medium | 字符串 |
 | 724 | [寻找数组的中心索引](https://leetcode-cn.com/problems/find-pivot-index/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/724.%20%E5%AF%BB%E6%89%BE%E6%95%B0%E7%BB%84%E7%9A%84%E4%B8%AD%E5%BF%83%E7%B4%A2%E5%BC%95.cpp) | easy | 数组|
-| 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/) | cpp | medium | 链表 |
+| 725 | [分隔链表](https://leetcode-cn.com/problems/split-linked-list-in-parts/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/725.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.cpp) | medium | 链表 |
 | 726 | [原子的数量](https://leetcode-cn.com/problems/number-of-atoms/description/) | cpp | hard | 栈、递归、哈希表 |
 | 728 | [自除数](https://leetcode-cn.com/problems/self-dividing-numbers/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/728.%20%E8%87%AA%E9%99%A4%E6%95%B0)  | easy | 数学|
 | 729 | [我的日程安排表 I](https://leetcode-cn.com/problems/my-calendar-i/description/) | cpp | medium | 数组|
