@@ -245,7 +245,7 @@
 | 295 | [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/description/) | cpp | hard | 设计|
 | 297 | [二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/description/) | cpp | hard | 设计|
 | 299 | [猜数字游戏](https://leetcode-cn.com/problems/bulls-and-cows/description/) | cpp | medium | 哈希表|
-| 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/) | cpp | medium | 动态规划、二分查找|
+| 300 | [最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/300.%20%E6%9C%80%E9%95%BF%E4%B8%8A%E5%8D%87%E5%AD%90%E5%BA%8F%E5%88%97.cpp) | medium | 动态规划、二分查找|
 | 301 | [删除无效的括号](https://leetcode-cn.com/problems/remove-invalid-parentheses/description/) | cpp | hard | 搜索|
 | 303 | [区域和检索 - 数组不可变](https://leetcode-cn.com/problems/range-sum-query-immutable/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/303.%20%E5%8C%BA%E5%9F%9F%E5%92%8C%E6%A3%80%E7%B4%A2%20-%20%E6%95%B0%E7%BB%84%E4%B8%8D%E5%8F%AF%E5%8F%98.java) | easy | 动态规划|
 | 304 | [二维区域和检索 - 矩阵不可变](https://leetcode-cn.com/problems/range-sum-query-2d-immutable/description/) | cpp | medium | 动态规划|
