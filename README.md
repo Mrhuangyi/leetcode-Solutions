@@ -705,7 +705,7 @@
 | 902 | [最大为 N 的数字组合](https://leetcode-cn.com/problems/numbers-at-most-n-given-digit-set/description/) | cpp | hard | 数学、动态规划 |
 | 903 | [DI 序列的有效排列](https://leetcode-cn.com/problems/valid-permutations-for-di-sequence/description/) | cpp | hard | 分治算法、动态规划 |
 | 904 | [水果成篮](https://leetcode-cn.com/problems/fruit-into-baskets/description/) | cpp | medium | 双指针 |
-| 905 | [按奇偶校验排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/) | cpp | easy | 数组 |
+| 905 | [按奇偶校验排序数组](https://leetcode-cn.com/problems/sort-array-by-parity/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/905.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84.cpp) | easy | 数组 |
 | 906 | [超级回文数](https://leetcode-cn.com/problems/super-palindromes/description/) | cpp |  hard | 数学 |
 | 907 | [子数组的最小值之和](https://leetcode-cn.com/problems/sum-of-subarray-minimums/description/) | cpp | medium | 栈、数组 |
 | 913 | [猫和老鼠](https://leetcode-cn.com/problems/cat-and-mouse/description/) | cpp | hard | 极小化极大、动态规划 |
