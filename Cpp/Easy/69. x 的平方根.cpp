@@ -15,30 +15,24 @@
 说明: 8 的平方根是 2.82842..., 
      由于返回类型是整数，小数部分将被舍去。
      
-     class Solution {
+   class Solution {
 public:
     int mySqrt(int x) {
-        return sqrt(x);
-    }
-};
-
-class Solution {
-public:
-    int mySqrt(int x) {
-        int left = 1,right = x/2;
-        int last_mid;
-        if(x<2) return x;
-        while(left<=right){
-            const int mid = left+(right-left)/2;
-            if(x/mid>mid){
-                left = mid+1;
-                last_mid = mid;
-            }else if(x/mid<mid){
-                right = mid-1;
-            }else{
+        int l = 0, r = x;
+        if(x <= 1) {
+            return x;
+        }
+        while(l <= r) {
+            int mid = l + (r - l) / 2;
+            int sqrt = x / mid;
+            if(sqrt == mid) {
                 return mid;
+            } else if(sqrt < mid) {
+                r = mid - 1;
+            } else {
+                l = mid + 1;
             }
         }
-        return last_mid;
+        return r;
     }
 };
