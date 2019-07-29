@@ -30,6 +30,23 @@ public:
   
 };
 
+class Solution {
+public:
+    int countPrimes(int n) {
+        vector<bool> isPrime(n+1, true);
+        int res = 0;
+        for(int i = 2; i < n; i++) {
+            if(isPrime[i]) {
+                res++;
+                for(int j = 2; i*j < n; j++) {
+                    isPrime[i*j] = false;
+                }
+            }
+        }
+        return res;
+    }
+};
+
 暴力解法：
 超时：
 class Solution {
