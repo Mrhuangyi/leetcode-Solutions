@@ -25,29 +25,31 @@
 class Solution {
 public:
     int reverse(int x) {
-        long long r = 0;
-        long long t = x;
-        if(t<0){
-            t=-t;
-        }
-        for(;t;t/=10){
-            r=r*10+t%10;
-        }
+        long long temp = x;
         bool sign;
-        if(x>0){
+        if(x < 0) {
             sign = false;
+            temp = -temp;
+        } else {
+            sign = true;
         }
-        else{
-            sign =true;
-        }
-        if(r>2147483647||(sign&&r>2147483648)){
-            return 0;
-        }else{
-            if(sign){
-                return -r;
-            }else{
-                return r;
+        long long newNum = 0;
+        while(temp != 0) {
+            int t = temp % 10;
+            newNum += t;
+            temp = temp / 10;
+            if(temp == 0) {
+                break;
             }
+            newNum = newNum * 10;
+        }
+        if(newNum > 2147483647 || (!sign && newNum > 2147483648)){
+            return 0;
+        }
+        if(sign) {
+            return newNum;
+        } else {
+            return -newNum;
         }
     }
 };
