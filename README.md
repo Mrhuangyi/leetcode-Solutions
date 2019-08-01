@@ -713,3 +713,4 @@
 | 915 | [分割数组](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/description/) | cpp | medium | 数组 |
 | 916 | [单词子集](https://leetcode-cn.com/problems/word-subsets/description/) | cpp | medium | 字符串 |
 | 922 | [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/922.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.cpp) | easy | 双指针、数组 |
+| 1140 | [1140. 石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1140.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F%20II.cpp) | medium | 动态规划 |
