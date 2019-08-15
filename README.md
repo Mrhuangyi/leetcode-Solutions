@@ -695,7 +695,7 @@
 | 889 | [根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/) | cpp | medium | 树 |
 | 890 | [查找和替换模式](https://leetcode-cn.com/problems/find-and-replace-pattern/description/) | cpp | medium | 字符串 |
 | 891 | [子序列宽度之和](https://leetcode-cn.com/problems/sum-of-subsequence-widths/description/) | cpp | hard | 数组、数学|
-| 892 | [三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/description/) | cpp | easy | 几何、数学 |
+| 892 | [三维形体的表面积](https://leetcode-cn.com/problems/surface-area-of-3d-shapes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/892.%20%E4%B8%89%E7%BB%B4%E5%BD%A2%E4%BD%93%E7%9A%84%E8%A1%A8%E9%9D%A2%E7%A7%AF.cpp) | easy | 几何、数学 |
 | 893 | [特殊等价字符串组](https://leetcode-cn.com/problems/groups-of-special-equivalent-strings/description/) | cpp | easy | 字符串 |
 | 894 | [所有可能的满二叉树](https://leetcode-cn.com/problems/all-possible-full-binary-trees/description/) | cpp | medium | 树、递归 |
 | 895 | [最大频率栈](https://leetcode-cn.com/problems/maximum-frequency-stack/description/) | cpp | hard | 栈、哈希表 |
