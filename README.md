@@ -268,7 +268,7 @@
 | 326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/326.%203%E7%9A%84%E5%B9%82.cpp) | easy | 数学|
 | 327 | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/description/) | cpp | hard | 二叉搜索树、分治算法|
 | 328 | [奇偶链表](https://leetcode-cn.com/problems/odd-even-linked-list/description/) | cpp | medium | 链表|
-| 329 | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/description/) | cpp | hard | 深度优先搜索、拓扑排序、记忆化|
+| 329 | [矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/329.%20%E7%9F%A9%E9%98%B5%E4%B8%AD%E7%9A%84%E6%9C%80%E9%95%BF%E9%80%92%E5%A2%9E%E8%B7%AF%E5%BE%84.cpp) | hard | 深度优先搜索、拓扑排序、记忆化|
 | 330 | [按要求补齐数组](https://leetcode-cn.com/problems/patching-array/description/) | cpp | hard | 贪心算法|
 | 331 | [验证二叉树的前序序列化](https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/description/) | cpp | medium | 栈|
 | 332 | [重新安排行程](https://leetcode-cn.com/problems/reconstruct-itinerary/description/) | cpp | medium | 深度优先搜索、图|
