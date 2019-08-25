@@ -717,7 +717,7 @@
 | 916 | [单词子集](https://leetcode-cn.com/problems/word-subsets/description/) | cpp | medium | 字符串 |
 | 922 | [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/922.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.cpp) | easy | 双指针、数组 |
 | 1133 | 1133最大唯一数 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1133%E6%9C%80%E5%A4%A7%E5%94%AF%E4%B8%80%E6%95%B0%20.cpp) | easy | 哈希 |
-| 1134 | 阿姆斯特朗数 | [cpp]() | easy | 循环 |
+| 1134 | 阿姆斯特朗数 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1134%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97%E6%95%B0.cpp) | easy | 循环 |
 | 1135 | 最低成本联通所有城市 | [cpp]() | medium | 最小生成树 |
 | 1136 | 平行课程 | [cpp]() | hard | 拓扑排序 |
 | 1140 | [1140. 石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1140.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F%20II.cpp) | medium | 动态规划 |
