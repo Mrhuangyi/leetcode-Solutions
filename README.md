@@ -588,7 +588,7 @@ QQ群：812791932
 | 765 | [情侣牵手](https://leetcode-cn.com/problems/couples-holding-hands/description/) | cpp | medium | 贪心算法、并查集、图|
 | 766 | [托普利茨矩阵](https://leetcode-cn.com/problems/toeplitz-matrix/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/766.%20%E6%89%98%E6%99%AE%E5%88%A9%E8%8C%A8%E7%9F%A9%E9%98%B5.cpp) | easy | 数组|
 | 767 | [重构字符串](https://leetcode-cn.com/problems/reorganize-string/description/) | cpp |  medium | 堆、贪心算法、排序、字符串|
-| 768 | [最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/description/) | cpp | hard | 数组|
+| 768 | [最多能完成排序的块 II](https://leetcode-cn.com/problems/max-chunks-to-make-sorted-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/768.%20%E6%9C%80%E5%A4%9A%E8%83%BD%E5%AE%8C%E6%88%90%E6%8E%92%E5%BA%8F%E7%9A%84%E5%9D%97%20II.cpp) | hard | 数组|
 | 769 | [最多能完成排序的块](https://leetcode-cn.com/problems/max-chunks-to-make-sorted/description/) | cpp | medium | 数组 |
 | 770 | [Basic Calculator IV](https://leetcode-cn.com/problems/basic-calculator-iv/description/) | cpp | hard | 栈、哈希表、字符串 |
 | 771 | [宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/771.%20%E5%AE%9D%E7%9F%B3%E4%B8%8E%E7%9F%B3%E5%A4%B4.cpp) | easy | 哈希表 |
