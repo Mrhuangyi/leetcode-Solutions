@@ -726,3 +726,4 @@ QQ群：812791932
 | 1135 | 最低成本联通所有城市 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1135%E6%9C%80%E4%BD%8E%E6%88%90%E6%9C%AC%E8%81%94%E9%80%9A%E6%89%80%E6%9C%89%E5%9F%8E%E5%B8%82.cpp) | medium | 最小生成树 |
 | 1136 | 平行课程 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/1136%E5%B9%B3%E8%A1%8C%E8%AF%BE%E7%A8%8B.cpp) | hard | 拓扑排序 |
 | 1140 | [1140. 石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1140.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F%20II.cpp) | medium | 动态规划 |
+| 1151 | [最少交换次数换来所有的1](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together/) | [cpp](https://blog.csdn.net/hy971216/article/details/99294989) | medium | 滑动窗口 |
