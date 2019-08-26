@@ -728,4 +728,4 @@ QQ群：812791932
 | 1140 | [1140. 石子游戏 II](https://leetcode-cn.com/problems/stone-game-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1140.%20%E7%9F%B3%E5%AD%90%E6%B8%B8%E6%88%8F%20II.cpp) | medium | 动态规划 |
 | 1151 | [最少交换次数换来所有的1](https://leetcode-cn.com/problems/minimum-swaps-to-group-all-1s-together/) | [cpp](https://blog.csdn.net/hy971216/article/details/99294989) | medium | 滑动窗口 |
 | 1165 | 单行键盘 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1165.%20%E5%8D%95%E8%A1%8C%E9%94%AE%E7%9B%98.cpp) | easy | hash |
-| 1167 | 连接棒材的最低费用 | [cpp]() | medium | 哈夫曼 |
+| 1167 | 连接棒材的最低费用 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1167.%20%E8%BF%9E%E6%8E%A5%E6%A3%92%E6%9D%90%E7%9A%84%E6%9C%80%E4%BD%8E%E8%B4%B9%E7%94%A8.cpp) | medium | 哈夫曼 |
