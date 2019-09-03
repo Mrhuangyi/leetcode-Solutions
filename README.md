@@ -669,7 +669,7 @@ QQ群：812791932
 | 856 | [括号的分数](https://leetcode-cn.com/problems/score-of-parentheses/description/) | cpp | medium | 栈、字符串 |
 | 857 | [雇佣 K 名工人的最低成本](https://leetcode-cn.com/problems/minimum-cost-to-hire-k-workers/description/) | cpp | hard | 堆 |
 | 858 | [镜面反射](https://leetcode-cn.com/problems/mirror-reflection/description/) | cpp | medium | 数学 |
-| 859 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/) | cpp | easy | 字符串 |
+| 859 | [亲密字符串](https://leetcode-cn.com/problems/buddy-strings/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/859.%20%E4%BA%B2%E5%AF%86%E5%AD%97%E7%AC%A6%E4%B8%B2.java) | easy | 字符串 |
 | 860 | [柠檬水找零](https://leetcode-cn.com/problems/lemonade-change/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/860.%20%E6%9F%A0%E6%AA%AC%E6%B0%B4%E6%89%BE%E9%9B%B6.cpp) | easy | 贪心算法 |
 | 861 | [翻转矩阵后的得分](https://leetcode-cn.com/problems/score-after-flipping-matrix/description/) | cpp | medium | 贪心算法 |
 | 862 | [和至少为 K 的最短子数组](https://leetcode-cn.com/problems/shortest-subarray-with-sum-at-least-k/description/) | cpp | hard | 队列、二分查找|
