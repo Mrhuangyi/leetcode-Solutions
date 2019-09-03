@@ -721,6 +721,8 @@ QQ群：812791932
 | 915 | [分割数组](https://leetcode-cn.com/problems/partition-array-into-disjoint-intervals/description/) | cpp | medium | 数组 |
 | 916 | [单词子集](https://leetcode-cn.com/problems/word-subsets/description/) | cpp | medium | 字符串 |
 | 922 | [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/922.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.cpp) | easy | 双指针、数组 |
+| 922 | [922. 按奇偶排序数组 II](https://leetcode-cn.com/problems/sort-array-by-parity-ii/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/922.%20%E6%8C%89%E5%A5%87%E5%81%B6%E6%8E%92%E5%BA%8F%E6%95%B0%E7%BB%84%20II.cpp) | easy | 双指针、数组 |
+| 984 | 984. 不含 AAA 或 BBB 的字符串 | [Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/984.%20%E4%B8%8D%E5%90%AB%20AAA%20%E6%88%96%20BBB%20%E7%9A%84%E5%AD%97%E7%AC%A6%E4%B8%B2.java) | medium | 字符串 |
 | 1133 | 1133最大唯一数 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1133%E6%9C%80%E5%A4%A7%E5%94%AF%E4%B8%80%E6%95%B0%20.cpp) | easy | 哈希 |
 | 1134 | 阿姆斯特朗数 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1134%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E6%9C%97%E6%95%B0.cpp) | easy | 循环 |
 | 1135 | 最低成本联通所有城市 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1135%E6%9C%80%E4%BD%8E%E6%88%90%E6%9C%AC%E8%81%94%E9%80%9A%E6%89%80%E6%9C%89%E5%9F%8E%E5%B8%82.cpp) | medium | 最小生成树 |
