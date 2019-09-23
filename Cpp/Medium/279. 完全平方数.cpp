@@ -12,6 +12,8 @@
 解释: 13 = 4 + 9.
 
 
+DP写法：
+
 class Solution {
 public:
     int numSquares(int n) {
@@ -24,4 +26,33 @@ public:
         }
         return dp[n];
     }
+};
+
+BFS写法：
+
+class Solution {
+public:
+    int numSquares(int n) {
+        int splitNum = 0;
+        q.push({n, 0});
+        while (!q.empty()) {
+            pair<int, int> current = q.front();
+            q.pop();
+
+            int num = current.first;
+            for (int i = 1; i <= sqrt(n); ++i) {
+                int next = num - pow(i, 2);
+                if (next < 0) {
+                    break;
+                }
+                if (next == 0) {
+                    return current.second + 1;
+                }
+                q.push({next, current.second + 1});
+            }
+        }
+        return splitNum;
+    }
+private:
+    queue<pair<int, int> > q;
 };
