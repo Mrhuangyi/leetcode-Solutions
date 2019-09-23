@@ -22,6 +22,8 @@
 
 */
 
+DFS写法：
+
 class Solution {
 public:
     int numIslands(vector<vector<char>>& grid) {
@@ -49,5 +51,56 @@ private:
         dfs(grid, j - 1, i, m, n);
         dfs(grid, j, i + 1, m, n);
         dfs(grid, j, i - 1, m, n);
+    }
+};
+
+BFS写法：
+
+class Solution {
+private:
+    queue<int> que;
+    int count = 0;
+    int x = 0;
+    int y = 0;
+    int xx = 0;
+    int yy = 0;
+public:
+    int numIslands(vector<vector<char>>& grid) {
+        int row = grid.size();
+        int col = row > 0 ? grid[0].size() : 0;
+        int dx[] = {-1, 0, 1, 0};
+        int dy[] = {0, 1, 0, -1};
+        if(row == 0 || col == 0) {
+            return 0;
+        }
+        for(int i = 0; i < row; i++) {
+            for(int j = 0; j < col; j++) {
+                if(grid[i][j] == '1') {
+                    que.push(i);
+                    que.push(j);
+                    grid[i][j] = '0';
+                    while(!que.empty()) {
+                        x = que.front();
+                        que.pop();
+                        y = que.front();
+                        que.pop();
+                        for(int k = 0; k < 4; k++) {
+                            xx = x + dx[k];
+                            yy = y + dy[k];
+                            if(xx < 0 || xx >= row || yy < 0 || yy >= col) {
+                                continue;
+                            }
+                            if(grid[xx][yy] == '1' ) {
+                                grid[xx][yy] = '0';
+                                que.push(xx);
+                                que.push(yy);
+                            }
+                        }
+                    }
+                    count++;
+                }
+            }
+        }
+        return count;
     }
 };
