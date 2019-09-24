@@ -398,7 +398,7 @@ QQ群：812791932
 | 491 | [递增子序列](https://leetcode-cn.com/problems/increasing-subsequences/description/) | cpp | medium | 深度优先搜索 |
 | 492 | [构造矩形](https://leetcode-cn.com/problems/construct-the-rectangle/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/492.%20%E6%9E%84%E9%80%A0%E7%9F%A9%E5%BD%A2.cpp) | easy | 数学 |
 | 493 | [翻转对](https://leetcode-cn.com/problems/reverse-pairs/description/) | cpp | hard | 树状数组、线段树、二叉搜索树 |
-| 494 | [目标和](https://leetcode-cn.com/problems/target-sum/description/) | cpp | medium | 深度优先搜索、动态规划 |
+| 494 | [目标和](https://leetcode-cn.com/problems/target-sum/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/494.%20%E7%9B%AE%E6%A0%87%E5%92%8C.cpp) | medium | 深度优先搜索、动态规划 |
 | 495 | [提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/description/) | cpp | medium | 数组|
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I.cpp) | easy | 栈 |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/description/) | cpp | medium | 二分查找 |
