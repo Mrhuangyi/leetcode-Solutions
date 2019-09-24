@@ -577,7 +577,7 @@ QQ群：812791932
 | 747 | [至少是其他数字两倍的最大数](https://leetcode-cn.com/problems/largest-number-at-least-twice-of-others/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/747.%20%E8%87%B3%E5%B0%91%E6%98%AF%E5%85%B6%E4%BB%96%E6%95%B0%E5%AD%97%E4%B8%A4%E5%80%8D%E7%9A%84%E6%9C%80%E5%A4%A7%E6%95%B0.cpp) | easy | 数组|
 | 748 | [最短完整词](https://leetcode-cn.com/problems/shortest-completing-word/description/) | cpp | medium | 哈希表|
 | 749 | [隔离病毒](https://leetcode-cn.com/problems/contain-virus/description/) | cpp | hard | 深度优先搜索 |
-| 752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/description/) | cpp | medium | 广度优先搜索 |
+| 752 | [打开转盘锁](https://leetcode-cn.com/problems/open-the-lock/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/752.%20%E6%89%93%E5%BC%80%E8%BD%AC%E7%9B%98%E9%94%81.cpp) | medium | 广度优先搜索 |
 | 753 | [破解保险箱](https://leetcode-cn.com/problems/cracking-the-safe/description/) | cpp | hard | 深度优先搜索、数学 |
 | 754 | [到达终点数字](https://leetcode-cn.com/problems/reach-a-number/description/) | cpp | medium | 数学 |
 | 756 | [金字塔转换矩阵](https://leetcode-cn.com/problems/pyramid-transition-matrix/description/) | cpp | medium | 位运算 | 深度优先搜索 |
