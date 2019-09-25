@@ -66,7 +66,7 @@ public:
             if(num > INT_MAX / 10 || (num == INT_MAX / 10 && (str[i] - '0' > INT_MAX % 10))) {
                 return sign == -1 ? INT_MIN : INT_MAX;
             }
-            num = num * 10 + str[i] - '0';
+            num = num * 10 - '0' + str[i];
             i++;
         }
         return num * sign;
