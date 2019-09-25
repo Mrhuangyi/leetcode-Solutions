@@ -435,7 +435,7 @@ QQ群：812791932
 | 539 | [最小时间差](https://leetcode-cn.com/problems/minimum-time-difference/description/) | cpp | medium | 字符串 |
 | 540 | [有序数组中的单一元素](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/540.%20%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E4%B8%AD%E7%9A%84%E5%8D%95%E4%B8%80%E5%85%83%E7%B4%A0.java) | medium | 数组 |
 | 541 | [反转字符串 II](https://leetcode-cn.com/problems/reverse-string-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/541.%20%E5%8F%8D%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2%20II.cpp) | easy | 字符串 |
-| 542 | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/description/) | cpp | medium | 搜索 |
+| 542 | [01 矩阵](https://leetcode-cn.com/problems/01-matrix/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/542%EF%BC%9A01%E7%9F%A9%E9%98%B5.cpp) | medium | 搜索 |
 | 543 | [二叉树的直径](https://leetcode-cn.com/problems/diameter-of-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/543.%20%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E7%9B%B4%E5%BE%84.cpp) | easy | 树 |
 | 546 | [移除盒子](https://leetcode-cn.com/problems/remove-boxes/description/) | cpp | hard | 深度优先搜索、动态规划  |
 | 547 | [朋友圈](https://leetcode-cn.com/problems/friend-circles/description/) | cpp、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/547.%20%E6%9C%8B%E5%8F%8B%E5%9C%88.java) | medium | 深度优先搜索、并查集 |
