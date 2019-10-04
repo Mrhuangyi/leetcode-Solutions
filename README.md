@@ -103,7 +103,7 @@ QQ群：812791932
 | 86 | [分隔链表](https://leetcode-cn.com/problems/partition-list/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/86.%20%E5%88%86%E9%9A%94%E9%93%BE%E8%A1%A8.cpp) | medium | 链表、双指针|
 | 87 | [扰乱字符串](https://leetcode-cn.com/problems/scramble-string/description/) | cpp | hard | 字符串、动态规划|
 | 88 | [合并两个有序数组](https://leetcode-cn.com/problems/merge-sorted-array/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/easy/88.%20%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.java) | easy | 数组、双指针|
-| 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/description/) | cpp | medium | 回溯算法|
+| 89 | [格雷编码](https://leetcode-cn.com/problems/gray-code/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/89.%20%E6%A0%BC%E9%9B%B7%E7%BC%96%E7%A0%81.cpp) | medium | 回溯算法|
 | 90 | [子集 II](https://leetcode-cn.com/problems/subsets-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/90.%20%E5%AD%90%E9%9B%86%20II.cpp)、[Java](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Java/medium/90.%20%E5%AD%90%E9%9B%86%20II.java) | medium | 数组、回溯算法|
 | 91 | [解码方法](https://leetcode-cn.com/problems/decode-ways/description/) | cpp | medium | 字符串、动态规划|
 | 92 | [反转链表 II](https://leetcode-cn.com/problems/reverse-linked-list-ii/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/92.%20%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8%20II.cpp) | medium | 链表|
