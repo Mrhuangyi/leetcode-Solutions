@@ -42,3 +42,34 @@ public:
         return res;
     }
 };
+
+
+class Solution {
+public:
+    vector<int> grayCode(int n) {
+        vector<int> res;
+        dfs(res, 1, n);
+        return res;
+    }
+    void dfs(vector<int>& res, int cur, int n) {
+        if(n == 0) {
+            res.push_back(0);
+            return;
+        }
+        if(cur > n) {
+            return;
+        }
+        if(cur == 1) {
+            res.push_back(0);
+            res.push_back(1);
+            dfs(res, cur + 1, n);
+        } else {
+            int len = res.size();
+            for(int i = 0; i < len; i++) {
+                res.push_back(res[len - i - 1] + pow(2, cur - 1));
+            }
+            dfs(res, cur + 1, n);
+        }
+    }
+};
+
