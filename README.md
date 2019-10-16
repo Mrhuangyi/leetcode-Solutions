@@ -402,7 +402,7 @@ QQ群：812791932
 | 495 | [提莫攻击](https://leetcode-cn.com/problems/teemo-attacking/description/) | cpp | medium | 数组|
 | 496 | [下一个更大元素 I](https://leetcode-cn.com/problems/next-greater-element-i/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/496.%20%E4%B8%8B%E4%B8%80%E4%B8%AA%E6%9B%B4%E5%A4%A7%E5%85%83%E7%B4%A0%20I.cpp) | easy | 栈 |
 | 497 | [Random Point in Non-overlapping Rectangles](https://leetcode-cn.com/problems/random-point-in-non-overlapping-rectangles/description/) | cpp | medium | 二分查找 |
-| 498 | [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/) | cpp | medium | 数学 |
+| 498 | [对角线遍历](https://leetcode-cn.com/problems/diagonal-traverse/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/498.%20%E5%AF%B9%E8%A7%92%E7%BA%BF%E9%81%8D%E5%8E%86.cpp) | medium | 数学、数组 |
 | 500 | [键盘行](https://leetcode-cn.com/problems/keyboard-row/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/500.%20%E9%94%AE%E7%9B%98%E8%A1%8C.cpp) | easy | 哈希表 |
 | 501 | [二叉搜索树中的众数](https://leetcode-cn.com/problems/find-mode-in-binary-search-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/501.%20%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%AD%E7%9A%84%E4%BC%97%E6%95%B0.cpp) |easy|树 |
 | 502 | [IPO](https://leetcode-cn.com/problems/ipo/description/) | cpp | hard | 堆、贪心算法|
