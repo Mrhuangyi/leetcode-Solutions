@@ -22,6 +22,48 @@
 
 */
 
+
+
+class Solution {
+public:
+    vector<int> spiralOrder(vector<vector<int>>& matrix) {
+        vector<int> res;
+         if(matrix.size() == 0) {
+            return res;
+        }
+        int row1 = 0;
+        int row2 = matrix.size() - 1;
+        int col1 = 0;
+        int col2 = matrix[0].size() - 1;
+       
+        while(row1 <= row2 && col1 <= col2) {
+            for(int i = col1; i <= col2; i++) {
+                res.push_back(matrix[row1][i]);
+            }
+            for(int i = row1 + 1; i <= row2; i++) {
+                res.push_back(matrix[i][col2]);
+            }
+            if(row1 != row2) {
+                for(int i = col2 - 1; i >= col1; i--) {
+                    res.push_back(matrix[row2][i]);
+                }
+            }
+            if(col1 != col2) {
+                for(int i = row2 - 1; i > row1; i--) {
+                    res.push_back(matrix[i][col1]);
+                }
+            }
+            row1++;
+            row2--;
+            col1++;
+            col2--;
+        }
+        return res;
+    }
+};
+
+
+
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
