@@ -17,6 +17,27 @@
 class Solution {
 public:
     int minSubArrayLen(int s, vector<int>& nums) {
+        int left = 0, sum = 0, len = nums.size();
+        int res = INT_MAX;
+        if(len == 0) {
+            return 0;
+        }
+        for(int i = 0; i < len; i++) {
+            sum += nums[i];
+            while(sum >= s) {
+                res = min(res, i - left + 1);
+                sum -= nums[left++];
+            }
+        }
+        return res == INT_MAX ? 0 : res;
+        
+    }
+};
+
+
+class Solution {
+public:
+    int minSubArrayLen(int s, vector<int>& nums) {
         if(nums.empty()) {
             return 0;
         }
@@ -33,6 +54,8 @@ public:
         return res == len + 1 ? 0 : res;
     }
 };
+
+
 
 二分查找
 时间复杂度O(nlogn)
