@@ -13,6 +13,49 @@
 进阶: 请选用C语言的用户尝试使用 O(1) 空间复杂度的原地解法。
 */
 
+
+class Solution {
+public:
+    string reverseWords(string s) {
+        string res,temp;
+        reverse(s.begin(), s.end());
+        int len = s.size();
+        int j = 0;
+        while(j < len) {
+            while(s[j] == ' ') {
+                j++;
+                
+            }
+             
+            while(s[len-1] == ' ') {
+                len--;
+            }
+            if(s[j] != ' ' && s[len-1] != ' ') {
+                break;
+            }
+        }
+        for(int i = j; i < len; i++) {
+            while(s[i] != ' ' && i < len) {
+                temp += s[i];
+                i++;
+            }
+            if(s[i] == ' ' && i != len) {
+                reverse(temp.begin(), temp.end());
+                res += temp;
+                res += " ";
+                temp = "";
+                while(s[i+1] == ' ') {
+                    i++;
+                }
+            }
+        }
+        reverse(temp.begin(), temp.end());
+        res += temp;
+        return res;
+    }
+};
+
+
 class Solution {
 public:
     void reverseWords(string &s) {
