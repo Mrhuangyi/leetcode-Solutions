@@ -21,3 +21,26 @@ public:
     return s;
     }
 };
+
+class Solution {
+public:
+    string reverseWords(string s) {
+        string res = "";
+        int start = 0, end = 0;
+        for(int i = 0; i < s.size(); i++) {
+            string temp = "";
+            while(s[i] != ' ' && s[i] != '\0') {
+                temp += s[i];
+                i++;
+            }
+            end = i - 1;
+            reverse(temp.begin(), temp.end());
+            start = i + 1;
+            res += temp;
+            if(i != s.size()) {
+                res += " ";
+            }
+        }
+        return res;
+    }
+};
