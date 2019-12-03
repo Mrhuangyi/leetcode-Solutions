@@ -9,6 +9,30 @@
 每个在结果中的元素必定是唯一的。
 我们可以不考虑输出结果的顺序。
 
+
+
+class Solution {
+public:
+    vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
+        vector<int> res;
+        unordered_set<int> hashSet1, hashSet2;
+        for(auto a : nums1) {
+            hashSet1.insert(a);
+        }
+        for(auto a : nums2) {
+            hashSet2.insert(a);
+        }
+        for(auto b : hashSet2) {
+            if(hashSet1.count(b) > 0) {
+                res.push_back(b);
+            }
+        }
+        return res;
+    }
+};
+
+
+
 class Solution {
 public:
     vector<int> intersection(vector<int>& nums1, vector<int>& nums2) {
