@@ -13,6 +13,27 @@
 输入: [4,1,2,1,2]
 输出: 4
 
+//hash解法
+class Solution {
+public:
+    int singleNumber(vector<int>& nums) {
+        unordered_set<int> hashSet;
+        for(int i = 0; i < nums.size(); i++) {
+            if(hashSet.count(nums[i]) > 0) {
+                hashSet.erase(nums[i]);
+            } else {
+            hashSet.insert(nums[i]);
+            }
+        }
+        int res;
+        for(auto a : hashSet) {
+            res = a;
+        }
+        return res;
+    }
+};
+
+//异或解法
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
