@@ -19,6 +19,23 @@
 说明:
 你可以假设 s 和 t 具有相同的长度。
 
+
+class Solution {
+public:
+    bool isIsomorphic(string s, string t) {
+        unordered_map<int, int> map1,map2;
+        for(int i = 0; i < s.size(); i++) {
+            if(map1[s[i]] != map2[t[i]]) {
+                return false;
+            }
+            map1[s[i]] = i + 1;
+            map2[t[i]] = i + 1;
+        }
+        return true;
+    }
+};
+
+
 class Solution {
 public:
     bool isIsomorphic(string s, string t) {
