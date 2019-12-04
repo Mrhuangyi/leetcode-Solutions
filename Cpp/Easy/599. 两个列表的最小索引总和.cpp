@@ -23,6 +23,33 @@
 下标从0开始，到列表的长度减1。
 两个列表都没有重复的元素。
 
+
+class Solution {
+public:
+    vector<string> findRestaurant(vector<string>& list1, vector<string>& list2) {
+        vector<string> res;
+        unordered_map<string, int> map;
+        for(int i = 0; i < list1.size(); i++) {
+            map[list1[i]] = i;
+        }
+        int temp = INT_MAX;
+        for(int i = 0; i < list2.size(); i++) {
+            if(map.find(list2[i]) != map.end()) {
+                if(temp > i + map[list2[i]]) {
+                temp = i + map[list2[i]];
+                res.clear();
+                res.push_back(list2[i]);
+                } else if(temp == i + map[list2[i]]) {
+                    res.push_back(list2[i]);
+                }
+            }
+        }
+        return res;
+    }
+};
+
+
+
 class Solution {
 public:
     vector<string> findRestaurant(vector<string>& list1, vector<string>& list2) {
