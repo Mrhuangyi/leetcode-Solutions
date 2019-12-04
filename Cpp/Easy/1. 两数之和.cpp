@@ -14,6 +14,28 @@
 法一：直接双重循环 暴力解，但会超时，O(n^2)
 法二：哈希，用一个哈希表，存储每个数的对应下标，复杂度O(n)
     
+
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        vector<int> res;
+        unordered_map<int, int> hashMap;
+        for(int i = 0; i < nums.size(); i++) {
+            hashMap[nums[i]] = i;
+        } 
+        for(int j = 0; j < nums.size(); j++) {
+            if(hashMap.find(target-nums[j]) != hashMap.end() && hashMap[target-nums[j]] != j) {
+                res.push_back(j);
+                res.push_back(hashMap[target-nums[j]]);
+                break;
+            }
+        }
+        return res;
+    }
+};
+
+
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
