@@ -12,7 +12,29 @@
 62 + 82 = 100
 12 + 02 + 02 = 1
 
-
+//这题我稍微提一下，一直循环，计算各个数位的平方和能否为1，如果能得到1，那么返回true就完事了
+//如果得不到1，你不能一直循环下去，这样会超时，所以考虑开一个集合，存放之前的中间值，每次判断下是不是之前出现过，如果之前出现过，那么直接返回false。
+class Solution {
+public:
+    bool isHappy(int n) {
+        int sum = 0;
+        set<int> hashSet;
+        while(sum != 1) {
+        sum = 0;
+        while(n != 0) {
+            int x = n % 10;
+            n = n / 10;
+            sum += x * x;
+        }
+        n = sum;
+        if(hashSet.count(sum) > 0) {
+            return false;
+        }
+        hashSet.insert(sum);
+        }
+        return sum == 1;
+    }
+};
 
 class Solution {
 public:
