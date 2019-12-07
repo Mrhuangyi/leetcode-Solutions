@@ -13,6 +13,26 @@
 如果 nums1 的大小比 nums2 小很多，哪种方法更优？
 如果nums2的元素存储在磁盘上，内存是有限的，你不能一次加载所有的元素到内存中，你该怎么办？
 
+
+class Solution {
+public:
+    vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
+        vector<int> res;
+        unordered_map<int, int> hash;
+        for(auto a : nums1) {
+            hash[a]++;
+        }
+        for(auto b : nums2) {
+            if(hash[b] > 0) {
+                res.push_back(b);
+                hash[b]--;
+            }
+        }
+        return res;
+    }
+};
+
+
 class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
