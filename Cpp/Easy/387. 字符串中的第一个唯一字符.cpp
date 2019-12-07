@@ -26,3 +26,21 @@ public:
         return -1;
     }
 };
+
+
+class Solution {
+public:
+    int firstUniqChar(string s) {
+        unordered_map<int, int> hash;
+        for(int i = 0; i < s.size(); i++) {
+            hash[s[i]]++;
+        }
+        for(int i = 0; i < s.size(); i++) {
+            if(hash[s[i]] == 1) {
+                return i;
+                //break;
+            }
+        }
+        return -1;
+    }
+};
