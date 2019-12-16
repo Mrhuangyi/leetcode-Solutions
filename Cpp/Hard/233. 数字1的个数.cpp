@@ -23,3 +23,21 @@ public:
         return res;
     }
 };
+
+
+class Solution {
+public:
+    int countDigitOne(int n) {
+        int res = 0, num = n;
+        long long base = 1;
+        while(num) {
+            int cur = num % 10;
+            int div = num / 10;
+            //每次计算某一位上1的次数
+            res += (div + (cur > 1 ? 1 : 0)) * base + (cur == 1 ? n % base + 1 : 0);
+            base *= 10;
+            num /= 10;
+        }
+        return res;
+    }
+};
