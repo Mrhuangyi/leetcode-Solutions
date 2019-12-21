@@ -492,7 +492,7 @@
 | 648 | [单词替换](https://leetcode-cn.com/problems/replace-words/description/) | cpp | medium | 字典树、哈希表 |
 | 649 | [Dota2 参议院](https://leetcode-cn.com/problems/dota2-senate/description/) | cpp | medium | 贪心算法 |
 | 650 | [只有两个键的键盘](https://leetcode-cn.com/problems/2-keys-keyboard/description/) | cpp | medium | 动态规划 |
-| 652 | [寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/description/) | cpp | medium | 树 |
+| 652 | [寻找重复的子树](https://leetcode-cn.com/problems/find-duplicate-subtrees/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/652.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E7%9A%84%E5%AD%90%E6%A0%91.cpp) | medium | 树 |
 | 653 | [两数之和 IV - 输入 BST](https://leetcode-cn.com/problems/two-sum-iv-input-is-a-bst/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/653.%20%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C%20IV%20-%20%E8%BE%93%E5%85%A5%20BST.cpp) | easy | 树 |
 | 654 | [最大二叉树](https://leetcode-cn.com/problems/maximum-binary-tree/description/) | cpp | medium | 树 |
 | 655 | [输出二叉树](https://leetcode-cn.com/problems/print-binary-tree/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/655.%20%E8%BE%93%E5%87%BA%E4%BA%8C%E5%8F%89%E6%A0%91.cpp) | medium | 树 |
