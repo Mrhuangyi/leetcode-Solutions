@@ -304,7 +304,7 @@
 | 376 | [摆动序列](https://leetcode-cn.com/problems/wiggle-subsequence/description/) | cpp | medium | 贪心算法、动态规划|
 | 377 | [组合总和 Ⅳ](https://leetcode-cn.com/problems/combination-sum-iv/description/) | cpp | medium | 动态规划|
 | 378 | [有序矩阵中第K小的元素](https://leetcode-cn.com/problems/kth-smallest-element-in-a-sorted-matrix/description/) | cpp | medium | 堆、二分查找|
-| 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/) | cpp | medium | 设计、数组、哈希表|
+| 380 | [常数时间插入、删除和获取随机元素](https://leetcode-cn.com/problems/insert-delete-getrandom-o1/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/380.%20%E5%B8%B8%E6%95%B0%E6%97%B6%E9%97%B4%E6%8F%92%E5%85%A5%E3%80%81%E5%88%A0%E9%99%A4%E5%92%8C%E8%8E%B7%E5%8F%96%E9%9A%8F%E6%9C%BA%E5%85%83%E7%B4%A0.cpp) | medium | 设计、数组、哈希表|
 | 381 | [O(1) 时间插入、删除和获取随机元素 - 允许重复](https://leetcode-cn.com/problems/insert-delete-getrandom-o1-duplicates-allowed/description/) | cpp | hard | 设计、数组、哈希表|
 | 382 | [链表随机节点](https://leetcode-cn.com/problems/linked-list-random-node/description/) | cpp | medium | 蓄水池抽样|
 | 383 | [赎金信](https://leetcode-cn.com/problems/ransom-note/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/383.%20%E8%B5%8E%E9%87%91%E4%BF%A1.cpp) | easy | 字符串|
