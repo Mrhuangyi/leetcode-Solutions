@@ -20,21 +20,22 @@ int guess(int num);
 class Solution {
 public:
     int guessNumber(int n) {
-        int t = guess(n);
-        if(t==0){
+        int res = 0;
+        if(guess(n)==0){
             return n;
         }
-        int left = 1,right = n;
-        while(left<right){
-            int mid = left + (right-left)/2;
-            int x = guess(mid);
-            if(x==1){
+        int left = 1, right = n;
+        while(left < right) {
+            int mid = left + (right - left) / 2;
+            if(guess(mid) == 0) {
+                res = mid;
+                return res;
+            } else if(guess(mid) == 1) {
                 left = mid;
-            }else if(x==-1){
+            } else if(guess(mid) == -1) {
                 right = mid;
-            }else if(x==0){
-                return mid;
             }
         }
+        return -1;
     }
 };
