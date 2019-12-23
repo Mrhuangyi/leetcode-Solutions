@@ -20,6 +20,32 @@
 n 是 32 位有符号整数，其数值范围是 [−231, 231 − 1] 。
 */
 
+
+//快速幂解法
+class Solution {
+public:
+    double myPow(double x, int n) {
+        long long b = abs((long long)n);
+        double pow = 1.0;
+        double temp = x;         // base的（2的整数幂）次幂
+        if (n == 0) {
+            return 1;
+        }
+        while (b) {
+            if (b & 1) {        // 逐位检查
+                pow *= temp;
+            }      
+            temp *= temp;            // temp翻倍
+            b >>= 1;    // 检查下一位
+        }
+        if (n < 0) {
+            pow = 1 / pow;
+        }
+        return pow;
+    }
+};
+
+
 class Solution {
 public:
     double myPow(double x, int n) {
