@@ -35,6 +35,28 @@ public:
     }
 };
 
+
+class Solution {
+public:
+    bool isPerfectSquare(int num) {
+        if(num < 2) {
+            return true;
+        }
+        int left = 1, right = num;
+        while(left < right) {
+            long long mid = left + (right - left) / 2;
+            if(mid * mid == num) {
+                return true;
+            } else if(mid * mid < num) {
+                left = mid + 1;
+            } else {
+                right = mid;
+            }
+        }
+        return false;
+    }
+};
+
 法二：
 任意完全平方数都可以表示成连续的奇数和
 
