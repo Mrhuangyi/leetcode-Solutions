@@ -44,3 +44,17 @@ public:
         return -1;
     }
 };
+
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        set<int> st;
+        for(auto a : nums) {
+            if(st.count(a) > 0) {
+                return a;
+            }
+            st.insert(a);
+        }
+        return -1;
+    }
+};
