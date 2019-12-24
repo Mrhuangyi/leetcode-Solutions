@@ -244,7 +244,7 @@
 | 282 | [给表达式添加运算符](https://leetcode-cn.com/problems/expression-add-operators/description/) | cpp | hard | 分治算法|
 | 283 | [移动零](https://leetcode-cn.com/problems/move-zeroes/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/283.%20%E7%A7%BB%E5%8A%A8%E9%9B%B6.cpp) | easy | 数组、双指针|
 | 284 | [顶端迭代器](https://leetcode-cn.com/problems/peeking-iterator/description/) | cpp | medium | 设计|
-| 287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/tree/master/Cpp/Medium) | medium | 数组、双指针、二分查找|
+| 287 | [寻找重复数](https://leetcode-cn.com/problems/find-the-duplicate-number/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/287.%20%E5%AF%BB%E6%89%BE%E9%87%8D%E5%A4%8D%E6%95%B0.cpp) | medium | 数组、双指针、二分查找|
 | 289 | [生命游戏](https://leetcode-cn.com/problems/game-of-life/description/) | cpp | medium | 数组|
 | 290 | [单词模式](https://leetcode-cn.com/problems/word-pattern/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/290.%20%E5%8D%95%E8%AF%8D%E6%A8%A1%E5%BC%8F.cpp) | easy | 哈希表|
 | 292 | [Nim游戏](https://leetcode-cn.com/problems/nim-game/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/292.%20Nim%E6%B8%B8%E6%88%8F.cpp) | easy | 规律|
