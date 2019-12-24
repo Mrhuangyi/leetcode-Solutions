@@ -45,6 +45,30 @@ public:
     }
 };
 
+//二分思想
+class Solution {
+public:
+    int findDuplicate(vector<int>& nums) {
+        int left = 0, right = nums.size() - 1;
+        while(left < right) {
+            int mid = left + (right - left) / 2;
+            int count = 0;
+            for(auto a : nums) {
+                if(a <= mid) {
+                    count++;
+                }
+            }
+            if(count <= mid) {
+                left = mid + 1;
+            } else {
+                right = mid;
+            }
+        }
+        return right;
+    }
+};
+
+//借助集合
 class Solution {
 public:
     int findDuplicate(vector<int>& nums) {
