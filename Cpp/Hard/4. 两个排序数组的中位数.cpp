@@ -22,6 +22,37 @@ nums2 = [3, 4]
 class Solution {
 public:
     double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
+        int n = nums1.size();
+        int m = nums2.size();
+        int k = 0;
+        int mid1 = 0, mid2 = 0;
+        int pA = 0, pB = 0;
+        double res = 0;
+        while(k <= (n + m) / 2) {
+            mid1 = mid2;
+            if(pA == nums1.size()) {
+                mid2 = nums2[pB++];
+            } else if(pB == nums2.size()) {
+                mid2 = nums1[pA++];
+            } else if(nums1[pA] < nums2[pB]) {
+                mid2 = nums1[pA++];
+            } else {
+                mid2 = nums2[pB++];
+            }
+            k++;
+        }
+        if((n + m) % 2 == 1) {
+            res = mid2 / 1.0;
+        } else {
+            res = (mid1 + mid2) / 2.0;
+        }
+        return res;
+    }
+};
+
+class Solution {
+public:
+    double findMedianSortedArrays(vector<int>& nums1, vector<int>& nums2) {
         int lenA = nums1.size();
         int lenB = nums2.size();
         if((lenA + lenB) % 2 == 0) {
