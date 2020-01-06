@@ -548,7 +548,7 @@
 | 715 | [Range Module](https://leetcode-cn.com/problems/range-module/description/) | cpp | hard | 线段树、二叉搜索树、数组|
 | 717 | [1比特与2比特字符](https://leetcode-cn.com/problems/1-bit-and-2-bit-characters/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/717.%201%E6%AF%94%E7%89%B9%E4%B8%8E2%E6%AF%94%E7%89%B9%E5%AD%97%E7%AC%A6.cpp) | easy | 数组|
 | 718 | [最长重复子数组](https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/718.%20%E6%9C%80%E9%95%BF%E9%87%8D%E5%A4%8D%E5%AD%90%E6%95%B0%E7%BB%84.cpp) | medium | 数组、哈希表、二分查找、动态规划 |
-| 719 | [找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/description/) | cpp | hard | 堆、数组、二分查找 |
+| 719 | [找出第 k 小的距离对](https://leetcode-cn.com/problems/find-k-th-smallest-pair-distance/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/719.%20%E6%89%BE%E5%87%BA%E7%AC%AC%20k%20%E5%B0%8F%E7%9A%84%E8%B7%9D%E7%A6%BB%E5%AF%B9.cpp) | hard | 堆、数组、二分查找 |
 | 720 | [词典中最长的单词](https://leetcode-cn.com/problems/longest-word-in-dictionary/description/) | cpp | medium | 字典树、哈希表 |
 | 721 | [账户合并](https://leetcode-cn.com/problems/accounts-merge/description/) | cpp | medium | 深度优先搜索、并查集 |
 | 722 | [删除注释](https://leetcode-cn.com/problems/remove-comments/description/) | cpp | medium | 字符串 |
