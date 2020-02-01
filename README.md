@@ -733,3 +733,6 @@
 | 1167 | 连接棒材的最低费用 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1167.%20%E8%BF%9E%E6%8E%A5%E6%A3%92%E6%9D%90%E7%9A%84%E6%9C%80%E4%BD%8E%E8%B4%B9%E7%94%A8.cpp) | medium | 哈夫曼 |
 | 1175 | 质数排列 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1173.%20%E8%B4%A8%E6%95%B0%E6%8E%92%E5%88%97.cpp) | easy | 数学 |
 | 1176 | 健身计划评估 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1174%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E8%AF%84%E4%BC%B0.cpp) | easy | 滑动窗口 |
+| 1331 | 数组序号转换 | cpp | easy | 数组 |
+| 1328 | 破坏回文串 | medium | 字符串 |
+| 1329 | 将矩阵按对角线排序 | medium | 数组 |
