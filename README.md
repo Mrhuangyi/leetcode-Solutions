@@ -734,5 +734,5 @@
 | 1175 | 质数排列 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1173.%20%E8%B4%A8%E6%95%B0%E6%8E%92%E5%88%97.cpp) | easy | 数学 |
 | 1176 | 健身计划评估 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1174%E5%81%A5%E8%BA%AB%E8%AE%A1%E5%88%92%E8%AF%84%E4%BC%B0.cpp) | easy | 滑动窗口 |
 | 1331 | 数组序号转换 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/1331.%20%E6%95%B0%E7%BB%84%E5%BA%8F%E5%8F%B7%E8%BD%AC%E6%8D%A2.cpp) | easy | 数组 |
-| 1328 | 破坏回文串 | cpp | medium | 字符串 |
-| 1329 | 将矩阵按对角线排序 | cpp | medium | 数组 |
+| 1328 | 破坏回文串 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1328.%20%E7%A0%B4%E5%9D%8F%E5%9B%9E%E6%96%87%E4%B8%B2.cpp) | medium | 字符串 |
+| 1329 | 将矩阵按对角线排序 | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/1329.%20%E5%B0%86%E7%9F%A9%E9%98%B5%E6%8C%89%E5%AF%B9%E8%A7%92%E7%BA%BF%E6%8E%92%E5%BA%8F.cpp) | medium | 数组 |
