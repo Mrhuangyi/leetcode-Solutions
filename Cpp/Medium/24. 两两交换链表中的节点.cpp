@@ -10,6 +10,30 @@
 你不能只是单纯的改变节点内部的值，而是需要实际的进行节点交换。
 
 
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode(int x) : val(x), next(NULL) {}
+ * };
+ */
+class Solution {
+public:
+    ListNode* swapPairs(ListNode* head) {
+        if(head == NULL || head->next == NULL) {
+            return head;
+        }
+        ListNode* firstNode = head;
+        ListNode* secondNode = head->next;
+        
+        firstNode->next = swapPairs(secondNode->next);
+        secondNode->next = firstNode;
+        
+        return secondNode;
+    }
+};
+
 */
 
 //
