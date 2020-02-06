@@ -5,6 +5,7 @@
 输入：s = "hello"
 返回："olleh"
 
+写法一：
 class Solution {
 public:
     string reverseString(string s) {
@@ -13,6 +14,7 @@ public:
     }
 };
 
+写法二：
 class Solution {
 public:
     string reverseString(string s) {
@@ -22,5 +24,38 @@ public:
 			res += s[s.length() - nIdx - 1];
 		}
 		return res;
+    }
+};
+
+写法三：
+class Solution {
+public:
+    void helper(vector<char>& s, int left, int right) {
+        if(left >= right) {
+            return ;
+        }
+        swap(s[left], s[right]);
+        left++;
+        right--;
+        helper(s, left, right);
+    }
+    void reverseString(vector<char>& s) {
+        helper(s, 0, s.size() - 1);
+    }
+};
+
+写法四：
+class Solution {
+public:
+    void reverseString(vector<char>& s) {
+        int i = 0, j = s.size() - 1;
+        char temp;
+        while(i < j) {
+            temp = s[i];
+            s[i] = s[j];
+            s[j] = temp;
+            i++;
+            j--;
+        }
     }
 };
