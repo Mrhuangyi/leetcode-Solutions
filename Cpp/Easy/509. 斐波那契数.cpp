@@ -32,6 +32,21 @@ F(N) = F(N - 1) + F(N - 2), 其中 N > 1.
 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
 
 
+
+class Solution {
+public:
+    int fib(int N) {
+        if(N == 0) {
+            return 0;
+        }
+        if(N == 1) {
+            return 1;
+        }
+        return fib(N-1) + fib(N-2);
+    }
+};
+
+
 class Solution {
 public:
     int fib(int N) {
