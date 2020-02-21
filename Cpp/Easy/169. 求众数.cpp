@@ -11,6 +11,28 @@
 输入: [2,2,1,1,1,2,2]
 输出: 2
 
+
+class Solution {
+public:
+    int majorityElement(vector<int>& nums) {
+        int cnt = 1;
+        int flag = nums[0];
+        for(int i = 1; i < nums.size(); i++) {
+            if(nums[i] == flag) {
+                cnt++;
+            } else {
+                cnt--;
+            }
+            if(cnt == 0) {
+                cnt = 1;
+                flag = nums[i];
+            }
+        }
+        return flag;
+    }
+};
+
+
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
