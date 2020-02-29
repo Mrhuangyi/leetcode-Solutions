@@ -261,7 +261,7 @@
 | 310 | [最小高度树](https://leetcode-cn.com/problems/minimum-height-trees/description/) | cpp | medium | 广度优先搜索、图|
 | 312 | [戳气球](https://leetcode-cn.com/problems/burst-balloons/description/) | cpp | hard | 分治算法、动态规划|
 | 313 | [ 超级丑数](https://leetcode-cn.com/problems/super-ugly-number/description/) | cpp | medium |堆、数学|
-| 315 | [ 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/description/) | cpp | hard | 树状数组、线段树、二叉搜索树|
+| 315 | [ 计算右侧小于当前元素的个数](https://leetcode-cn.com/problems/count-of-smaller-numbers-after-self/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Hard/315.%20%E8%AE%A1%E7%AE%97%E5%8F%B3%E4%BE%A7%E5%B0%8F%E4%BA%8E%E5%BD%93%E5%89%8D%E5%85%83%E7%B4%A0%E7%9A%84%E4%B8%AA%E6%95%B0.cpp) | hard | 树状数组、线段树、二叉搜索树|
 | 316 | [去除重复字母](https://leetcode-cn.com/problems/remove-duplicate-letters/description/) | cpp | hard | 栈、贪心算法|
 | 318 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/description/) | cpp | medium | 位运算|
 | 319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/319.%20%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3.cpp)|medium | 数学|
