@@ -266,7 +266,7 @@
 | 318 | [最大单词长度乘积](https://leetcode-cn.com/problems/maximum-product-of-word-lengths/description/) | cpp | medium | 位运算|
 | 319 | [灯泡开关](https://leetcode-cn.com/problems/bulb-switcher/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/319.%20%E7%81%AF%E6%B3%A1%E5%BC%80%E5%85%B3.cpp)|medium | 数学|
 | 321 | [拼接最大数](https://leetcode-cn.com/problems/create-maximum-number/description/) | cpp | hard | 贪心算法、动态规划|
-| 322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) | cpp | medium | 动态规划|
+| 322 | [零钱兑换](https://leetcode-cn.com/problems/coin-change/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Medium/322.%20%E9%9B%B6%E9%92%B1%E5%85%91%E6%8D%A2.cpp) | medium | 动态规划|
 | 324 | [摆动排序 II](https://leetcode-cn.com/problems/wiggle-sort-ii/description/) | cpp | medium | 排序|
 | 326 | [3的幂](https://leetcode-cn.com/problems/power-of-three/description/) | [cpp](https://github.com/Mrhuangyi/leetcode-Solutions/blob/master/Cpp/Easy/326.%203%E7%9A%84%E5%B9%82.cpp) | easy | 数学|
 | 327 | [区间和的个数](https://leetcode-cn.com/problems/count-of-range-sum/description/) | cpp | hard | 二叉搜索树、分治算法|
