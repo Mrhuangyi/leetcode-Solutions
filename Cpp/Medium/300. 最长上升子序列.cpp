@@ -11,6 +11,32 @@
 你算法的时间复杂度应该为 O(n2) 。
 进阶: 你能将算法的时间复杂度降低到 O(n log n) 吗?
 
+    
+class Solution {
+public:
+    int lengthOfLIS(vector<int>& nums) {
+        if(nums.size() == 0) {
+            return 0;
+        }
+        int len = nums.size();
+        vector<int> dp(len);
+        for(int i = 0; i < len; i++) {
+            dp[i] = 1;
+        }
+        int maxLen = 1;
+        for(int i = 0; i < len; i++) {
+            for(int j = 0; j < i; j++) {
+                if(nums[j] < nums[i]) {
+                    dp[i] = max(dp[i], dp[j] + 1);
+                }
+            }
+            if(dp[i] > maxLen) {
+                maxLen = dp[i];
+            }
+        }
+        return maxLen;
+    }
+};
 
 class Solution {
 public:
