@@ -45,6 +45,29 @@ p = "mis*is*p*."
 输出: false
 */
 
+bool isMatch(char* s, char* p){
+    if(*s == '\0' && *p == '\0') {
+        return true;
+    }
+    if(*s != '\0' && *p == '\0') {
+        return false;
+    }
+    if(*(p+1) != '*') {
+        if(*s == *p || (*s != '\0' && *p == '.')) {
+            return isMatch(s+1, p+1);
+        } else {
+            return false;
+        }
+    } else {
+        if(*s == *p || (*s != '\0' && *p == '.')) {
+            return isMatch(s+1, p) || isMatch(s, p+2);
+        } else {
+            return isMatch(s, p+2);
+        }
+    }
+}
+
+
 class Solution {
 public:
     bool isMatch(string s, string p) {
