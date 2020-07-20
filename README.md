@@ -1,13 +1,8 @@
 # leetcode-Solutions
 [leetcode中国官网](https://leetcode-cn.com/)
 
-
-### 我的博客: https://blog.csdn.net/hy971216  、 http://www.huangyiblog.com/
-
-### 推荐刷题交流QQ群： 812791932(刷题群又回来了...群里严禁讨论敏感问题)
+### 推荐刷题交流QQ群： 812791932
 群里有二哥(小白二号)等各路算法大神帮大家解决问题，欢迎加入一起学习！
-
-> 这是我自己维护的一个LeetCode题解仓库，由于个人能力较菜，目前只刷了一小部分题，会一直完善。
 
 
 | #  |  题名     |  解答    | 难度   |  分类  |
